@@ -476,6 +476,28 @@ CCTV6,http://www.com.net.rr.nu/v/1905.php?id=cctv6
 吉林公共,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8
 吉林影视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
 
+吉林卫视,http://119.54.2.252:58000/hls/18/index.m3u8
+吉林都市,http://119.54.2.252:58000/hls/19/index.m3u8
+吉林生活,http://119.54.2.252:58000/hls/20/index.m3u8
+吉林影视,http://119.54.2.252:58000/hls/21/index.m3u8
+吉林乡村,http://119.54.2.252:58000/hls/22/index.m3u8
+吉林公共,http://119.54.2.252:58000/hls/23/index.m3u8
+吉林综艺,http://119.54.2.252:58000/hls/24/index.m3u8
+东北戏曲,http://119.54.2.252:58000/hls/25/index.m3u8
+延边卫视,http://119.54.2.252:58000/hls/26/index.m3u8
+吉林教育,http://119.54.2.252:58000/hls/27/index.m3u8
+长影频道,http://119.54.2.252:58000/hls/28/index.m3u8
+
+
+
+黑龙江都市,http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8
+黑龙江少儿,http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
+黑龙江影视,http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
+黑龙江文体,http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
+黑龙江农业科教,http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
+黑龙新闻法治,http://[2409:8087:1a01:df::4036]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
+
+
 
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.flv
 宁夏公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.flv
@@ -542,10 +564,22 @@ CCTV6,http://www.com.net.rr.nu/v/1905.php?id=cctv6
 河北经济,http://111.11.98.205:9900/hls/19/index.m3u8
 河北都市,http://111.11.98.205:9900/hls/20/index.m3u8
 河北影视,http://111.11.98.205:9900/hls/21/index.m3u8
-少儿科教,http://111.11.98.205:9900/hls/22/index.m3u8
+河北少儿,http://111.11.98.205:9900/hls/22/index.m3u8
 河北公共,http://111.11.98.205:9900/hls/23/index.m3u8
 河北农民,http://111.11.98.205:9900/hls/24/index.m3u8
 晴彩河北,http://111.11.98.205:9900/hls/26/index.m3u8
+
+
+
+
+甘肃都市,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226248/1.m3u8
+甘肃公共应急,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226250/1.m3u8
+甘肃经济,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226252/1.m3u8
+甘肃少儿,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226289/1.m3u8
+甘肃文化影视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226287/1.m3u8
+
+
+
 
 
 
