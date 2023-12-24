@@ -428,16 +428,30 @@ KIX,mitv://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
 
 🇨🇳测试频道,#genre#
 
-
+星空卫视,http://183.237.246.14:9003/hls/40/index.m3u8
 CCTV6,http://www.com.net.rr.nu/v/1905.php?id=cctv6
 电影网(国际),http://www.com.net.rr.nu/v/1905.php?id=1905a
 电影网(国内),http://www.com.net.rr.nu/v/1905.php?id=1905b
 
-
-
 西藏卫视,http://82.156.142.113:88/iptv/haoqu.php?tid=xizang&cid=xizang&id=0
 西藏藏语,http://82.156.142.113:88/iptv/haoqu.php?tid=xizang&cid=xizang&id=1
 西藏影视,http://82.156.142.113:88/iptv/haoqu.php?tid=xizang&cid=xizang&id=2
+
+广东卫视,http://119.136.16.114:3333/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://119.136.16.114:3333/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://119.136.16.114:3333/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://119.136.16.114:3333/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+
+山东卫视,http://58.57.155.42:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+山东齐鲁,http://58.57.155.42:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+山东文旅,http://58.57.155.42:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+山东生活,http://58.57.155.42:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+山东综艺,http://58.57.155.42:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+山东体育,http://58.57.155.42:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+山东新闻,http://58.57.155.42:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+山东农科,http://58.57.155.42:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+山东少儿,http://58.57.155.42:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+山东教育,http://58.57.155.42:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
@@ -445,6 +459,15 @@ CCTV6,http://www.com.net.rr.nu/v/1905.php?id=cctv6
 辽宁经济,http://60.21.217.42:9901/tsfile/live/0008_2.m3u8?key=txiptv&playlive=1&authid=0
 辽宁公共,http://60.21.217.42:9901/tsfile/live/0008_3.m3u8?key=txiptv&playlive=1&authid=0
 沈阳新闻综合,http://60.21.217.42:9901/tsfile/live/0008_4.m3u8?key=txiptv&playlive=1&authid=0
+
+辽宁卫视,http://119.114.32.192:9901/tsfile/live/1165_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁北方,http://119.114.32.192:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁都市,http://119.114.32.192:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁公共,http://119.114.32.192:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁经济,http://119.114.32.192:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁生活,http://119.114.32.192:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁体育,http://119.114.32.192:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁影视剧,http://119.114.32.192:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 吉林卫视,http://150.138.8.143/00/SNM/CHANNEL00000363/index.m3u8
@@ -484,8 +507,45 @@ CCTV6,http://www.com.net.rr.nu/v/1905.php?id=cctv6
 云南|公共,http://221.213.69.82:8888/tsfile/live/0127_1.m3u8?
 
 
+江西卫视,http://113.195.172.192:808/hls/1/index.m3u8
+江西都市,http://113.195.172.192:808/hls/2/index.m3u8
+江西经济,http://113.195.172.192:808/hls/3/index.m3u8
+江西影视,http://113.195.172.192:808/hls/4/index.m3u8
+江西公共,http://113.195.172.192:808/hls/5/index.m3u8
+江西少儿,http://113.195.172.192:808/hls/35/index.m3u8
+江西新闻,http://113.195.172.192:808/hls/96/index.m3u8
 
 
+湖南卫视,http://218.76.54.101:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南经视,http://218.76.54.101:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南都市,http://218.76.54.101:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南娱乐,http://218.76.54.101:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南公共,http://218.76.54.101:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+潇湘电影,http://218.76.54.101:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+河南卫视,http://504099760.qicp.vip:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南都市,http://504099760.qicp.vip:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+河南民生,http://504099760.qicp.vip:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+河南法制,http://504099760.qicp.vip:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+河南电视剧,http://504099760.qicp.vip:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+河南新闻,http://504099760.qicp.vip:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+河南梨园,http://504099760.qicp.vip:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+河南武术世界,http://504099760.qicp.vip:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
+河南公共,http://504099760.qicp.vip:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+河南新农村,http://504099760.qicp.vip:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+精彩中原,http://504099760.qicp.vip:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+移动戏曲,http://504099760.qicp.vip:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+河北卫视,http://111.11.98.205:9900/hls/18/index.m3u8
+河北经济,http://111.11.98.205:9900/hls/19/index.m3u8
+河北都市,http://111.11.98.205:9900/hls/20/index.m3u8
+河北影视,http://111.11.98.205:9900/hls/21/index.m3u8
+少儿科教,http://111.11.98.205:9900/hls/22/index.m3u8
+河北公共,http://111.11.98.205:9900/hls/23/index.m3u8
+河北农民,http://111.11.98.205:9900/hls/24/index.m3u8
+晴彩河北,http://111.11.98.205:9900/hls/26/index.m3u8
 
 
 
@@ -1040,7 +1100,6 @@ CETV-4,http://123.234.171.81:10003/udp/239.253.254.116:8000
 青岛4,http://182.32.160.11:9999/udp/239.21.1.72:5002
 青岛5,http://182.32.160.11:9999/udp/239.21.1.73:5002
 青岛6,http://182.32.160.11:9999/udp/239.21.1.74:5002
-青海卫视,http://182.32.160.11:9999/udp/239.21.1.43:5002
 青州文化旅游,http://182.32.160.11:9999/udp/239.21.1.231:5002
 青州综合,http://182.32.160.11:9999/udp/239.21.1.232:5002
 曲阜新闻,http://182.32.160.11:9999/udp/239.21.1.225:5002
@@ -1197,7 +1256,7 @@ CGTN西班牙语,http://182.32.160.11:9999/udp/239.21.2.32:5002
 动作影院,http://182.32.160.11:9999/udp/239.21.1.123:5002
 甘肃卫视,http://182.32.160.11:9999/udp/239.21.1.47:5002
 甘肃卫视,http://182.32.160.11:9999/udp/239.21.2.22:5002
-
+青海卫视,http://182.32.160.11:9999/udp/239.21.1.43:5002
 广东卫视,http://182.32.160.11:9999/udp/239.21.1.26:5002
 广东卫视,http://182.32.160.11:9999/udp/239.21.1.92:5002
 广西卫视,http://182.32.160.11:9999/udp/239.21.1.39:5002
@@ -5062,8 +5121,8 @@ Boomerang HD,https://s2.pub/219
 尼克儿童频道,https://s2.pub/21b
 小猪佩奇,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw2443156656_-1125659309/ott.mobaibox.com/PLTV/3/224/3221228460/index.m3u8?icpid=3&RTS=1674369673&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 奥特曼,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2443039727_1258033443/ott.mobaibox.com/PLTV/3/224/3221228456/index.m3u8?icpid=3&RTS=1674369673&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb23_80&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-超级飞侠,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw4207711491_582058613/ott.mobaibox.com/PLTV/3/224/3221228463/index.m3u8?icpid=3&RTS=1674371438&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
-超级飞侠2,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2444245842_-988657747/ott.mobaibox.com/PLTV/3/224/3221228539/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
+汪汪队,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw4207711491_582058613/ott.mobaibox.com/PLTV/3/224/3221228463/index.m3u8?icpid=3&RTS=1674371438&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
+超级飞侠,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2444245842_-988657747/ott.mobaibox.com/PLTV/3/224/3221228539/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 熊大熊二,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2444135891_2133795787/ott.mobaibox.com/PLTV/3/224/3221228536/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 少儿动漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/8145334647720731271/index.m3u8?channel-id=wasusyt&Contentid=8145334647720731271&livemode=1&stbId=3
 爱动漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
