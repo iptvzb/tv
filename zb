@@ -355,18 +355,21 @@ ELTA体育2,rtmp://9sv2.mine.nu/sat/md041
 ELTA体育3,rtmp://9sv2.mine.nu:1935/sat/md051
 ELTA体育4,rtmp://9sv2.mine.nu:1935/sat/md041
 ELTA体育4,rtmp://9sv2.mine.nu:1935/sat/md051
-红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 
-
-
-🇨🇳地方台,#genre#
 
 星空卫视,http://183.237.246.14:9003/hls/40/index.m3u8
 CCTV6,http://www.com.net.rr.nu/v/1905.php?id=cctv6
 电影网(国际),http://www.com.net.rr.nu/v/1905.php?id=1905a
 电影网(国内),http://www.com.net.rr.nu/v/1905.php?id=1905b
+
+龙祥电影,http://180.143.86.250:85/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
+🇨🇳酒店测试,#genre#
+
 
 
 
@@ -4248,12 +4251,6 @@ QTV-李沧,http://alivealone.litenews.cn/173/bc8dac70dcc54987a3abd07313420e4b.fl
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 山东少儿,http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
 内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
-靖天卡通台,https://s2.pub/216
-东森幼幼台,https://s2.pub/217
-MOMO 亲子台,https://s2.pub/218
-Boomerang HD,https://s2.pub/219
-小尼克频道,https://s2.pub/21a
-尼克儿童频道,https://s2.pub/21b
 小猪佩奇,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw2443156656_-1125659309/ott.mobaibox.com/PLTV/3/224/3221228460/index.m3u8?icpid=3&RTS=1674369673&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 奥特曼,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2443039727_1258033443/ott.mobaibox.com/PLTV/3/224/3221228456/index.m3u8?icpid=3&RTS=1674369673&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb23_80&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 汪汪队,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw4207711491_582058613/ott.mobaibox.com/PLTV/3/224/3221228463/index.m3u8?icpid=3&RTS=1674371438&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
@@ -4450,7 +4447,7 @@ CCTV 第一剧场,http://180.143.86.250:85/tsfile/live/1108_1.m3u8?key=txiptv&pl
 CHC 家庭影院,http://180.143.86.250:85/tsfile/live/1056_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC 动作电影,http://180.143.86.250:85/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC 高清电影,http://180.143.86.250:85/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
-龙祥电影,http://180.143.86.250:85/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 
