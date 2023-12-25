@@ -331,29 +331,37 @@ KIX,mitv://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
 🇨🇳测试频道,#genre#
 
 凤凰电影台,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8
-民视,rtmp://9sv2.mine.nu/sat/tv051
-台视,rtmp://9sv2.mine.nu/sat/tv071
 中视,rtmp://9sv2.mine.nu/sat/tv091
+台视,rtmp://9sv2.mine.nu/sat/tv071
+民视,rtmp://9sv2.mine.nu/sat/tv051
 华视,rtmp://9sv2.mine.nu/sat/tv111
-东森超视,rtmp://9sv2.mine.nu/sat/tv331
-东森财经,rtmp://9sv2.mine.nu/sat/tv571
+东森超视,rtmp://9sv2.mine.nu:1935/sat/tv331
+东森财经新闻,rtmp://9sv2.mine.nu:1935/sat/tv571
+东森财经新闻,rtmp://9sv2.mine.nu/sat/tv571
+TVBS新闻,rtmp://9sv2.mine.nu/sat/tv551
+TVBS欢乐,rtmp://9sv2.mine.nu:1935/sat/tv421
 纬来育乐,rtmp://9sv2.mine.nu/sat/tv701
 纬来体育,rtmp://9sv2.mine.nu/sat/tv721
+MOMO综合,rtmp://9sv2.mine.nu/sat/tv761
 纬来日本,rtmp://9sv2.mine.nu/sat/tv771
-TVBS欢乐台,rtmp://9sv2.mine.nu/sat/tv421
-TVBS新闻台,rtmp://9sv2.mine.nu/sat/tv551
-MoMo综合,rtmp://9sv2.mine.nu/sat/tv761
-ELEVEN体育1,rtmp://9sv2.mine.nu/sat/tv731
-ELEVEN体育2,rtmp://9sv2.mine.nu/sat/tv741
-ELTA体育1,rtmp://9sv2.mine.nu/sat/md051
-ELTA体育3,rtmp://9sv2.mine.nu/sat/md041
+ELEVEN1,rtmp://9sv2.mine.nu/sat/tv731
+ELEVEN2,rtmp://9sv2.mine.nu/sat/tv741
+纬来育乐,rtmp://9sv2.mine.nu/sat/tv701
+纬来体育,rtmp://9sv2.mine.nu/sat/tv721
+MOMO综合,rtmp://9sv2.mine.nu/sat/tv761
+ELEVEN2,rtmp://9sv2.mine.nu:1935/sat/md011
+ELTA体育1,rtmp://9sv2.mine.nu:1935/sat/md031
+ELTA体育2,rtmp://9sv2.mine.nu/sat/md041
+ELTA体育3,rtmp://9sv2.mine.nu:1935/sat/md051
+ELTA体育4,rtmp://9sv2.mine.nu:1935/sat/md041
+ELTA体育4,rtmp://9sv2.mine.nu:1935/sat/md051
+红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 
 
 
-
-🇨🇳酒店源,#genre#
+🇨🇳地方台,#genre#
 
 星空卫视,http://183.237.246.14:9003/hls/40/index.m3u8
 CCTV6,http://www.com.net.rr.nu/v/1905.php?id=cctv6
@@ -4410,6 +4418,8 @@ New TV频道,#genre#
 精品记录,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw2837435881_530071425/ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
 明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
 知否知否,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw4153357107_-1457036326/ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8?
+
+
 
 
 
