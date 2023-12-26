@@ -368,7 +368,7 @@ CCTV6,http://www.com.net.rr.nu/v/1905.php?id=cctv6
 
 
 
-🇨🇳地方台,#genre#
+🇨🇳地方广电,,#genre#
 
 
 
@@ -418,20 +418,17 @@ CCTV6,http://www.com.net.rr.nu/v/1905.php?id=cctv6
 
 
 
-吉林卫视,http://119.54.2.252:58000/hls/18/index.m3u8
-吉林都市,http://119.54.2.252:58000/hls/19/index.m3u8
-吉林生活,http://119.54.2.252:58000/hls/20/index.m3u8
-吉林影视,http://119.54.2.252:58000/hls/21/index.m3u8
-吉林乡村,http://119.54.2.252:58000/hls/22/index.m3u8
-吉林公共,http://119.54.2.252:58000/hls/23/index.m3u8
-吉林综艺,http://119.54.2.252:58000/hls/24/index.m3u8
-东北戏曲,http://119.54.2.252:58000/hls/25/index.m3u8
-延边卫视,http://119.54.2.252:58000/hls/26/index.m3u8
-吉林教育,http://119.54.2.252:58000/hls/27/index.m3u8
-长影频道,http://119.54.2.252:58000/hls/28/index.m3u8
-
-
-
+吉林卫视,http://gongzhuling.lnott.top:58000/hls/18/index.m3u8
+吉林都视,http://gongzhuling.lnott.top:58000/hls/19/index.m3u8
+吉林生活,http://gongzhuling.lnott.top:58000/hls/20/index.m3u8
+吉林影视,http://gongzhuling.lnott.top:58000/hls/21/index.m3u8
+吉林乡村,http://gongzhuling.lnott.top:58000/hls/22/index.m3u8
+吉林公共,http://gongzhuling.lnott.top:58000/hls/23/index.m3u8
+吉林综艺,http://gongzhuling.lnott.top:58000/hls/24/index.m3u8
+东北戏曲,http://gongzhuling.lnott.top:58000/hls/25/index.m3u8
+延边卫视,http://gongzhuling.lnott.top:58000/hls/26/index.m3u8
+吉林教育,http://gongzhuling.lnott.top:58000/hls/27/index.m3u8
+长影频道,http://gongzhuling.lnott.top:58000/hls/28/index.m3u8
 
 
 
@@ -470,6 +467,24 @@ CCTV6,http://www.com.net.rr.nu/v/1905.php?id=cctv6
 海峡卫视,https://s2.pub/27l
 
 
+四川新闻,http://lu1.cc/itv/sctv/scxl.php?id=scxw
+四川经济,http://lu1.cc/itv/sctv/scxl.php?id=scjj
+四川文化,http://lu1.cc/itv/sctv/scxl.php?id=scwhly
+四川影视,http://lu1.cc/itv/sctv/scxl.php?id=scyswy
+四川妇女儿童,http://lu1.cc/itv/sctv/scxl.php?id=scfnet
+四川经济,http://lu1.cc/itv/sctv/scxl.php?id=scxc
+四川康巴,http://lu1.cc/itv/sctv/scxl.php?id=kbws
+
+
+
+安徽经济生活,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829325295495.m3u8
+安徽影视,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
+安徽综艺体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
+安徽公共,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
+安徽农业科教,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829358013848.m3u8
+安徽国际,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
+
+
 云南|都市,http://221.213.69.82:8888/tsfile/live/0128_1.m3u8?key=txiptv
 云南|娱乐,http://221.213.69.82:8888/tsfile/live/0124_1.m3u8?key=txiptv
 云南|公共,http://221.213.69.82:8888/tsfile/live/0127_1.m3u8?
@@ -482,6 +497,24 @@ CCTV6,http://www.com.net.rr.nu/v/1905.php?id=cctv6
 江西公共,http://113.195.172.192:808/hls/5/index.m3u8
 江西少儿,http://113.195.172.192:808/hls/35/index.m3u8
 江西新闻,http://113.195.172.192:808/hls/96/index.m3u8
+
+
+江西卫视,http://gzly.hkychina.com:6001/udp/239.252.220.63:5140
+江西都市,http://gzly.hkychina.com:6001/udp/239.252.220.238:5140
+江西经济,http://gzly.hkychina.com:6001/udp/239.252.219.173:5140
+江西影视,http://yuwentao114.f3322.net:4022/udp/239.252.220.242:5140
+江西公共,http://gzly.hkychina.com:6001/udp/239.252.220.102:5140
+江西少儿,http://gzly.hkychina.com:6001/udp/239.252.219.113:5140
+江西新闻,http://gzly.hkychina.com:6001/udp/239.252.220.100:5140
+江西教育,http://gzly.hkychina.com:6001/udp/239.252.219.115:5140
+江西移动,http://gzly.hkychina.com:6001/udp/239.252.220.241:5140
+江西IPTV,http://gzly.hkychina.com:6001/udp/239.252.219.188:5140
+
+江西卫视,http://58.17.48.228:808/hls/17/index.m3u8
+江西都市,http://58.17.48.228:808/hls/18/index.m3u8
+江西经济,http://58.17.48.228:808/hls/19/index.m3u8
+江西公共,http://58.17.48.228:808/hls/21/index.m3u8
+江西教育,http://58.17.48.228:808/hls/24/index.m3u8
 
 
 湖南卫视,http://218.76.54.101:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -505,7 +538,81 @@ CCTV6,http://www.com.net.rr.nu/v/1905.php?id=cctv6
 
 
 
-甘肃卫视http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226240/1.m3u8
+
+新疆卫视,http://office.gofaraway.top:888/udp/238.125.3.174:5140
+新疆2,http://office.gofaraway.top:888/udp/238.125.3.175:5140
+新疆3,http://office.gofaraway.top:888/udp/238.125.3.176:5140
+新疆4,http://office.gofaraway.top:888/udp/238.125.3.177:5140
+新疆5,http://office.gofaraway.top:888/udp/238.125.3.178:5140
+新疆6,http://office.gofaraway.top:888/udp/238.125.3.179:5140
+新疆7,http://office.gofaraway.top:888/udp/238.125.3.180:5140
+新疆8,http://office.gofaraway.top:888/udp/238.125.3.181:5140
+新疆9,http://office.gofaraway.top:888/udp/238.125.3.182:5140
+新疆10,http://office.gofaraway.top:888/udp/238.125.3.183:5140
+新疆11,http://office.gofaraway.top:888/udp/238.125.3.184:5140
+新疆12,http://office.gofaraway.top:888/udp/238.125.3.185:5140
+乌鲁木齐都市,http://office.gofaraway.top:888/udp/238.125.7.203:5140
+乌鲁木齐妇女,http://office.gofaraway.top:888/udp/238.125.7.205:5140
+乌鲁木齐影视,http://office.gofaraway.top:888/udp/238.125.7.202:5140
+乌鲁木齐综合,http://office.gofaraway.top:888/udp/238.125.7.200:5140
+伊犁哈萨克-1,http://office.gofaraway.top:888/udp/238.125.0.147:5140
+伊犁哈萨克-2,http://office.gofaraway.top:888/udp/238.125.0.148:5140
+伊犁哈萨克-3,http://office.gofaraway.top:888/udp/238.125.0.149:5140
+伊犁哈萨克-4,http://office.gofaraway.top:888/udp/238.125.0.150:5140
+巴音郭楞-1,http://office.gofaraway.top:888/udp/238.125.3.38:5140
+巴音郭楞-2,http://office.gofaraway.top:888/udp/238.125.3.39:5140
+巴音郭楞-3,http://office.gofaraway.top:888/udp/238.125.3.40:5140
+巴音郭楞-4,http://office.gofaraway.top:888/udp/238.125.3.43:5140
+包头-1,http://office.gofaraway.top:888/udp/238.125.3.12:5140
+包头-2,http://office.gofaraway.top:888/udp/238.125.3.13:5140
+包头-3,http://office.gofaraway.top:888/udp/238.125.3.14:5140
+巴州1,http://office.gofaraway.top:888/udp/238.125.7.38:5140
+巴州2,http://office.gofaraway.top:888/udp/238.125.7.39:5140
+巴州3,http://office.gofaraway.top:888/udp/238.125.7.40:5140
+巴州4,http://office.gofaraway.top:888/udp/238.125.7.43:5140
+霍城1,http://office.gofaraway.top:888/udp/238.125.7.7:5140
+霍城2,http://office.gofaraway.top:888/udp/238.125.7.6:5140
+喀什1,http://office.gofaraway.top:888/udp/238.125.3.214:5140
+喀什2,http://office.gofaraway.top:888/udp/238.125.3.215:5140
+喀什3,http://office.gofaraway.top:888/udp/238.125.3.216:5140
+克孜勒苏柯尔克孜1,http://office.gofaraway.top:888/udp/238.125.0.240:5140
+克孜勒苏柯尔克孜2,http://office.gofaraway.top:888/udp/238.125.4.241:5140
+克孜勒苏柯尔克孜3,http://office.gofaraway.top:888/udp/238.125.4.242:5140
+奎屯1,http://office.gofaraway.top:888/udp/238.125.3.248:5140
+奎屯3,http://office.gofaraway.top:888/udp/238.125.3.250:5140
+KTTV1,http://office.gofaraway.top:888/udp/238.125.7.185:5140
+呼图壁,http://office.gofaraway.top:888/udp/238.125.3.91:5140
+玛纳斯,http://office.gofaraway.top:888/udp/238.125.3.114:5140
+阿勒泰1,http://office.gofaraway.top:888/udp/238.125.7.54:5140
+阿勒泰2,http://office.gofaraway.top:888/udp/238.125.7.134:5140
+阿克苏1,http://office.gofaraway.top:888/udp/238.125.7.84:5140
+阿克苏2,http://office.gofaraway.top:888/udp/238.125.7.85:5140
+阿克苏3,http://office.gofaraway.top:888/udp/238.125.7.86:5140
+塔里木1,http://office.gofaraway.top:888/udp/238.125.7.120:5140
+塔里木2,http://office.gofaraway.top:888/udp/238.125.7.121:5140
+巴里坤1,http://office.gofaraway.top:888/udp/238.125.7.220:5140
+巴里坤2,http://office.gofaraway.top:888/udp/238.125.7.221:5140
+竹山1,http://office.gofaraway.top:888/udp/238.125.7.171:5140
+竹山2,http://office.gofaraway.top:888/udp/238.125.3.226:5140
+青河1,http://office.gofaraway.top:888/udp/238.125.7.226:5140
+青河2,http://office.gofaraway.top:888/udp/238.125.7.227:5140
+图木舒克1,http://office.gofaraway.top:888/udp/238.125.7.181:5140
+图木舒克2,http://office.gofaraway.top:888/udp/238.125.7.182:5140
+YPH1,http://office.gofaraway.top:888/udp/238.125.7.193:5140
+YPH2,http://office.gofaraway.top:888/udp/238.125.7.194:5140
+十二师,http://office.gofaraway.top:888/udp/238.125.7.114:5140
+
+
+
+
+
+
+
+
+
+
+
+甘肃|卫视http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226240/1.m3u8
 甘肃|都市,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226248/1.m3u8
 甘肃|文化影视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226287/1.m3u8
 甘肃|少儿,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226289/1.m3u8
@@ -520,7 +627,7 @@ CCTV6,http://www.com.net.rr.nu/v/1905.php?id=cctv6
 黑龙江|少儿,http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
 黑龙江|影视,http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
 黑龙江|文体,http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
-黑龙江|农业科教,http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
+黑龙江|农业,http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
 黑龙江|鹤岗新闻综合,http://[2409:8087:1a01:df::4060]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
 黑龙江|佳木斯新闻综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
 黑龙江|齐齐哈尔经济法制,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
@@ -529,14 +636,32 @@ CCTV6,http://www.com.net.rr.nu/v/1905.php?id=cctv6
 
 
 
-海南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001183/index.m3u8
-海南卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?
-海南新闻,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?
-海南公共,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?
-海南自贸,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?
-海南文旅,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?
-海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?
-三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?
+黑龙江|新闻法治,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+黑龙江|都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+黑龙江|文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+黑龙江|农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+黑龙江|影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+黑龙江|少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+黑龙江|哈尔滨新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
+黑龙江|大庆新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
+黑龙江|大庆公共,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
+鹤岗新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+黑龙江|佳木斯新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
+黑龙江|齐齐哈尔新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
+黑龙江|齐齐哈尔经济法制,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
+黑龙江|双鸭山综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
+
+
+
+
+海南|卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001183/index.m3u8
+海南|卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?
+海南|新闻,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?
+海南|公共,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?
+海南|自贸,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?
+海南|文旅,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?
+海南|少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?
+三沙|卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?
 
 
 
