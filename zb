@@ -160,7 +160,7 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
 
-🇭🇰急速港台,#genre#
+🇭🇰测试港台,#genre#
 
 
 TVB 翡翠台,http://154.204.178.30/大街.php?id=2
@@ -653,63 +653,62 @@ CCTV6,http://www.com.net.rr.nu/v/1905.php?id=cctv6
 
 
 
-西藏卫视,http://82.156.142.113:88/iptv/haoqu.php?tid=xizang&cid=xizang&id=0
-西藏藏语,http://82.156.142.113:88/iptv/haoqu.php?tid=xizang&cid=xizang&id=1
-西藏影视,http://82.156.142.113:88/iptv/haoqu.php?tid=xizang&cid=xizang&id=2
+西藏|卫视,http://82.156.142.113:88/iptv/haoqu.php?tid=xizang&cid=xizang&id=0
+西藏|藏语,http://82.156.142.113:88/iptv/haoqu.php?tid=xizang&cid=xizang&id=1
+西藏|影视,http://82.156.142.113:88/iptv/haoqu.php?tid=xizang&cid=xizang&id=2
 
 
 
 
-广东卫视,http://119.136.16.114:3333/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://119.136.16.114:3333/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-广东影视,http://119.136.16.114:3333/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,http://119.136.16.114:3333/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+广东|卫视,http://119.136.16.114:3333/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东|珠江,http://119.136.16.114:3333/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+广东|影视,http://119.136.16.114:3333/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东|体育,http://119.136.16.114:3333/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
 
-山东卫视,http://58.57.155.42:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-山东齐鲁,http://58.57.155.42:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-山东文旅,http://58.57.155.42:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-山东生活,http://58.57.155.42:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-山东综艺,http://58.57.155.42:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-山东体育,http://58.57.155.42:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-山东新闻,http://58.57.155.42:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-山东农科,http://58.57.155.42:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-山东少儿,http://58.57.155.42:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
-山东教育,http://58.57.155.42:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+山东|卫视,http://58.57.155.42:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+山东|齐鲁,http://58.57.155.42:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+山东|文旅,http://58.57.155.42:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+山东|生活,http://58.57.155.42:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+山东|综艺,http://58.57.155.42:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+山东|体育,http://58.57.155.42:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+山东|新闻,http://58.57.155.42:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+山东|农科,http://58.57.155.42:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+山东|少儿,http://58.57.155.42:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+山东|教育,http://58.57.155.42:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
-辽宁卫视,http://60.21.217.42:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁经济,http://60.21.217.42:9901/tsfile/live/0008_2.m3u8?key=txiptv&playlive=1&authid=0
-辽宁公共,http://60.21.217.42:9901/tsfile/live/0008_3.m3u8?key=txiptv&playlive=1&authid=0
-沈阳新闻综合,http://60.21.217.42:9901/tsfile/live/0008_4.m3u8?key=txiptv&playlive=1&authid=0
+辽宁|卫视,http://60.21.217.42:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁|经济,http://60.21.217.42:9901/tsfile/live/0008_2.m3u8?key=txiptv&playlive=1&authid=0
+辽宁|公共,http://60.21.217.42:9901/tsfile/live/0008_3.m3u8?key=txiptv&playlive=1&authid=0
+辽宁|沈阳新闻综合,http://60.21.217.42:9901/tsfile/live/0008_4.m3u8?key=txiptv&playlive=1&authid=0
 
-辽宁卫视,http://119.114.32.192:9901/tsfile/live/1165_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁北方,http://119.114.32.192:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁都市,http://119.114.32.192:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁公共,http://119.114.32.192:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁经济,http://119.114.32.192:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁生活,http://119.114.32.192:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁体育,http://119.114.32.192:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁影视剧,http://119.114.32.192:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
+辽宁|卫视,http://119.114.32.192:9901/tsfile/live/1165_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁|北方,http://119.114.32.192:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁|都市,http://119.114.32.192:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁|公共,http://119.114.32.192:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁|经济,http://119.114.32.192:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁|生活,http://119.114.32.192:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁|体育,http://119.114.32.192:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁|影视剧,http://119.114.32.192:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-吉林卫视,http://gongzhuling.lnott.top:58000/hls/18/index.m3u8
-吉林都视,http://gongzhuling.lnott.top:58000/hls/19/index.m3u8
-吉林生活,http://gongzhuling.lnott.top:58000/hls/20/index.m3u8
-吉林影视,http://gongzhuling.lnott.top:58000/hls/21/index.m3u8
-吉林乡村,http://gongzhuling.lnott.top:58000/hls/22/index.m3u8
-吉林公共,http://gongzhuling.lnott.top:58000/hls/23/index.m3u8
-吉林综艺,http://gongzhuling.lnott.top:58000/hls/24/index.m3u8
-东北戏曲,http://gongzhuling.lnott.top:58000/hls/25/index.m3u8
-延边卫视,http://gongzhuling.lnott.top:58000/hls/26/index.m3u8
-吉林教育,http://gongzhuling.lnott.top:58000/hls/27/index.m3u8
-长影频道,http://gongzhuling.lnott.top:58000/hls/28/index.m3u8
 
+
+吉林|卫视,http://gongzhuling.lnott.top:58000/hls/18/index.m3u8
+吉林|都视,http://gongzhuling.lnott.top:58000/hls/19/index.m3u8
+吉林|生活,http://gongzhuling.lnott.top:58000/hls/20/index.m3u8
+吉林|影视,http://gongzhuling.lnott.top:58000/hls/21/index.m3u8
+吉林|乡村,http://gongzhuling.lnott.top:58000/hls/22/index.m3u8
+吉林|公共,http://gongzhuling.lnott.top:58000/hls/23/index.m3u8
+吉林|综艺,http://gongzhuling.lnott.top:58000/hls/24/index.m3u8
+东北|戏曲,http://gongzhuling.lnott.top:58000/hls/25/index.m3u8
+吉林|教育,http://gongzhuling.lnott.top:58000/hls/27/index.m3u8
+长影|频道,http://gongzhuling.lnott.top:58000/hls/28/index.m3u8
+延边|卫视,http://gongzhuling.lnott.top:58000/hls/26/index.m3u8
 
 
 
@@ -805,7 +804,12 @@ CCTV6,http://www.com.net.rr.nu/v/1905.php?id=cctv6
 晴彩|河北,http://111.11.98.205:9900/hls/26/index.m3u8
 
 
-
+湖南|卫视,http://118.253.0.24:2023/tsfile/live/0018_1.m3u8?
+湖南|经视,http://118.253.0.24:2023/tsfile/live/1028_1.m3u8?
+湖南|都市,http://118.253.0.24:2023/tsfile/live/1029_1.m3u8?
+湖南|娱乐,http://118.253.0.24:2023/tsfile/live/1030_1.m3u8?
+湖南|电影,http://118.253.0.24:2023/tsfile/live/1031_1.m3u8?
+湖南|电视剧,http://118.253.0.24:2023/tsfile/live/1032_1.m3u8?
 
 
 
