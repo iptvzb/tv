@@ -395,7 +395,37 @@ KIX,mitv://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
 西藏|藏语,http://82.156.142.113:88/iptv/haoqu.php?tid=xizang&cid=xizang&id=1
 西藏|影视,http://82.156.142.113:88/iptv/haoqu.php?tid=xizang&cid=xizang&id=2
 
+西藏|卫视,http://220.182.45.198:20088/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏|影视,http://220.182.45.198:20088/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 
+
+
+新疆卫视,http://office.gofaraway.top:888/udp/238.125.3.174:5140
+新疆2,http://office.gofaraway.top:888/udp/238.125.3.175:5140
+新疆3,http://office.gofaraway.top:888/udp/238.125.3.176:5140
+新疆4,http://office.gofaraway.top:888/udp/238.125.3.177:5140
+新疆5,http://office.gofaraway.top:888/udp/238.125.3.178:5140
+新疆6,http://office.gofaraway.top:888/udp/238.125.3.179:5140
+新疆7,http://office.gofaraway.top:888/udp/238.125.3.180:5140
+新疆8,http://office.gofaraway.top:888/udp/238.125.3.181:5140
+新疆9,http://office.gofaraway.top:888/udp/238.125.3.182:5140
+新疆10,http://office.gofaraway.top:888/udp/238.125.3.183:5140
+新疆11,http://office.gofaraway.top:888/udp/238.125.3.184:5140
+新疆12,http://office.gofaraway.top:888/udp/238.125.3.185:5140
+
+
+重庆卫视,http://183.66.66.199:2345/udp/235.254.196.249:1268
+重庆新闻,http://183.66.66.199:2345/udp/235.254.196.199:7980
+重庆影视,http://183.66.66.199:2345/udp/235.254.198.180:7980
+重庆社会与法,http://183.66.66.199:2345/udp/235.254.198.181:7980
+重庆时尚,http://183.66.66.199:2345/udp/235.254.198.182:7980
+重庆娱乐,http://183.66.66.199:2345/udp/235.254.198.187:7980
+重庆公共农村,http://183.66.66.199:2345/udp/235.254.198.186:7980
+重庆少儿,http://183.66.66.199:2345/udp/235.254.199.166:7980
+重庆科教,http://183.66.66.199:2345/udp/235.254.198.188:7980
+重庆汽摩,http://183.66.66.199:2345/udp/235.254.199.169:7980
+重庆移动,http://183.66.66.199:2345/udp/235.254.199.170:7980
+睛彩重庆,http://183.66.66.199:2345/udp/235.254.196.218:1146
 
 
 广东|卫视,http://119.136.16.114:3333/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -438,21 +468,25 @@ KIX,mitv://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
 辽宁|公共,http://60.21.217.42:9901/tsfile/live/0008_3.m3u8?key=txiptv&playlive=1&authid=0
 辽宁|沈阳新闻综合,http://60.21.217.42:9901/tsfile/live/0008_4.m3u8?key=txiptv&playlive=1&authid=0
 
+辽宁|卫视,http://61.243.162.175:9901/tsfile/live/1165_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁|都市,http://61.243.162.175:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁|公共,http://61.243.162.175:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁|经济,http://61.243.162.175:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁|生活,http://61.243.162.175:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁|体育,http://61.243.162.175:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁|影视,http://61.243.162.175:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁|移动电视,http://61.243.162.175:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁|沈阳新闻,http://61.243.162.175:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
-
-吉林|卫视,http://gongzhuling.lnott.top:58000/hls/18/index.m3u8
-吉林|都视,http://gongzhuling.lnott.top:58000/hls/19/index.m3u8
-吉林|生活,http://gongzhuling.lnott.top:58000/hls/20/index.m3u8
-吉林|影视,http://gongzhuling.lnott.top:58000/hls/21/index.m3u8
-吉林|乡村,http://gongzhuling.lnott.top:58000/hls/22/index.m3u8
-吉林|公共,http://gongzhuling.lnott.top:58000/hls/23/index.m3u8
-吉林|综艺,http://gongzhuling.lnott.top:58000/hls/24/index.m3u8
-吉林|东北戏曲,http://gongzhuling.lnott.top:58000/hls/25/index.m3u8
-吉林|教育,http://gongzhuling.lnott.top:58000/hls/27/index.m3u8
-吉林|长影频道,http://gongzhuling.lnott.top:58000/hls/28/index.m3u8
-吉林|延边卫视,http://gongzhuling.lnott.top:58000/hls/26/index.m3u8
+吉林|卫视,http://175.20.10.36:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林|都市,http://175.20.10.36:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林|乡村,http://175.20.10.36:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林|公共,http://175.20.10.36:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林|综艺,http://175.20.10.36:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林|生活,http://175.20.10.36:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+东北|戏曲,http://175.20.10.36:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
@@ -4028,7 +4062,7 @@ TVB 新闻台,http://headscale.wisdomitc.com:9981/stream/channelid/1409177603?pr
 Viu TV,http://headscale.wisdomitc.com:9981/stream/channelid/336818267?profile=pass
 
 
-
+三立台湾台,p2p://generationnexxxt.com:19806/ff12e8f29f9b4f61a9b766709aa498f6
 
 
 
