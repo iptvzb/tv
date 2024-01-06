@@ -55,10 +55,8 @@ CCTV风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 
 凤凰中文台,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯台,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰香港台,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-凤凰中文台,http://php.17186.eu.org/phtv/fhzw.m3u8
-凤凰资讯台,http://php.17186.eu.org/phtv/fhzx.m3u8
-凤凰香港台,http://php.17186.eu.org/phtv/fhhk.m3u8
+
+
 
 
 
@@ -734,12 +732,27 @@ CINEMAX,http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/05
 
 🇨🇳地方广电,,#genre#
 
+
+
+辽宁卫视,http://42.179.43.41:9901/tsfile/live/1165_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁北方,http://42.179.43.41:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁都市,http://42.179.43.41:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁公共,http://42.179.43.41:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁经济,http://42.179.43.41:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁生活,http://42.179.43.41:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁体育,http://42.179.43.41:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁影视,http://42.179.43.41:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+移动电视,http://42.179.43.41:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+沈阳新闻,http://42.179.43.41:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 西藏|卫视,http://82.156.142.113:88/iptv/haoqu.php?tid=xizang&cid=xizang&id=0
 西藏|藏语,http://82.156.142.113:88/iptv/haoqu.php?tid=xizang&cid=xizang&id=1
 西藏|影视,http://82.156.142.113:88/iptv/haoqu.php?tid=xizang&cid=xizang&id=2
 
 西藏|卫视,http://220.182.45.198:20088/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏|影视,http://220.182.45.198:20088/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 北京|新闻,http://iptv.8t.cx:8180/udp/239.3.1.159:8000
@@ -821,8 +834,6 @@ CINEMAX,http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/05
 山东|农科,http://39.85.162.151:880/CH023.m3u8
 山东|少儿,http://39.85.162.151:880/CH024.m3u8
 山东|教育,http://39.85.162.151:880/CH025.m3u8
-
-
 
 
 
@@ -2731,7 +2742,6 @@ CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/22
 
 凤凰卫视中文台,http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?
 凤凰卫视资讯台,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?
-凤凰卫视香港台,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
 
 东南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw1460673280_696172443/ott.mobaibox.com/PLTV/3/224/3221227553/index.m3u8?
