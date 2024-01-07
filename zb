@@ -1,5 +1,6 @@
 🇨🇳综合频道,#genre#
 
+
 CCTV1-4K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV2,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
@@ -723,7 +724,7 @@ TVB 星河频道,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB 亚洲武侠台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
-
+澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 金砖中文台,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 欧洲华文1台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 欧洲华文2台,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
@@ -741,7 +742,7 @@ Loupe 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 修复4K,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8?
 
 
-
+龙腾功夫台,https://alirtspull.cc.netease.com/pushstation/620975b5fca5e25074c7437343961.flv?_t=7acf3134e910a1d8&src=webcc_4000_h5&quic_versions=46%2C43%2C39&auth_key=1704600516-d57286d8afbc4d078aaa33c29343a5db-0-d065295eaa21d176273f14823acff8bf&sid=3786a2ec13d5624ccb6f522b
 
 
 
@@ -922,7 +923,7 @@ Loupe 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 安徽|公共,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
 安徽|农业科教,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829358013848.m3u8
 安徽|国际,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
-
+安徽|综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 
 
 
@@ -4554,7 +4555,3 @@ KTTV1,http://office.gofaraway.top:888/udp/238.125.7.185:5140
 YPH1,http://office.gofaraway.top:888/udp/238.125.7.193:5140
 YPH2,http://office.gofaraway.top:888/udp/238.125.7.194:5140
 十二师,http://office.gofaraway.top:888/udp/238.125.7.114:5140
-
-
-
-
