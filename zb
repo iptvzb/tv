@@ -149,6 +149,25 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
 
+CCTV1,http://tvphp1.rbq.plus/migu.php?id=cctv1
+CCTV2,http://tvphp1.rbq.plus/migu.php?id=cctv2
+CCTV3,http://tvphp1.rbq.plus/migu.php?id=cctv3
+CCTV4,http://tvphp1.rbq.plus/migu.php?id=cctv4
+CCTV5,http://tvphp1.rbq.plus/migu.php?id=cctv5
+CCTV5+,http://tvphp1.rbq.plus/migu.php?id=cctv5p
+CCTV6,http://tvphp1.rbq.plus/migu.php?id=cctv6
+CCTV7,http://tvphp1.rbq.plus/migu.php?id=cctv7
+CCTV8,http://tvphp1.rbq.plus/migu.php?id=cctv8
+CCTV9,http://tvphp1.rbq.plus/migu.php?id=cctv9
+CCTV10,http://tvphp1.rbq.plus/migu.php?id=cctv10
+CCTV11,http://tvphp1.rbq.plus/migu.php?id=cctv11
+CCTV12,http://tvphp1.rbq.plus/migu.php?id=cctv12
+CCTV13,http://tvphp1.rbq.plus/migu.php?id=cctv13
+CCTV14,http://tvphp1.rbq.plus/migu.php?id=cctv14
+CCTV15,http://tvphp1.rbq.plus/migu.php?id=cctv15
+CCTV17,http://tvphp1.rbq.plus/migu.php?id=cctv17
+
+
 
 
 
@@ -680,9 +699,6 @@ tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 🇨🇳测试频道,#genre#
 
 
-四川峨嵋电影,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/emdygqH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-四川4K超高清电影,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/emdy4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-
 凤凰电影台,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 广东珠江台,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
@@ -739,7 +755,7 @@ Loupe 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 修复4K,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8?
 
-
+日本銀河 (primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=10&bind=0&uin=159413&playseek=0
 龙腾功夫台,https://alirtspull.cc.netease.com/pushstation/620975b5fca5e25074c7437343961.flv?_t=7acf3134e910a1d8&src=webcc_4000_h5&quic_versions=46%2C43%2C39&auth_key=1704600516-d57286d8afbc4d078aaa33c29343a5db-0-d065295eaa21d176273f14823acff8bf&sid=3786a2ec13d5624ccb6f522b
 
 
@@ -3921,274 +3937,6 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 
 
 
-四川广电,#genre#
-
-四川卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/scwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-四川文化旅游,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-四川经济,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-四川新闻,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-四川影视文艺,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/SCTV-5-scysH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-四川妇女儿童,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/SCTV-7-_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-四川科教,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-四川乡村,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-四川峨嵋电影,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/emdygqH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-四川康巴卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/kbwsH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-4K超高清电影,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/emdy4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-成都新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CDTV-1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-成都经济资讯,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CDTV-2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-成都都市生活,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CDTV-3_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-成都影视文艺,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CDTV-4_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-成都公共频道,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CDTV-5_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-成都高新区,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/cdgxdstgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-凤凰中文,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/test1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-凤凰资讯,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-
-
-阿坝州TV,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/abxwzhpdgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-阿坝州藏语,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/wypdgqH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-安居综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ajxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-安岳综合频道,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ayxwzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-安州综合频道,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/azgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-巴中文旅生活,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/bzetH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-巴中综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/bzytH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-巴州电视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/bzxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-宝兴综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/bxdst_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-北川综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/bcxwHD_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-苍溪综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/cxxwgqH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-长宁综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/znzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-朝天综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ctxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-崇州,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/czyt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-船山综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/csxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-达川新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/dcxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-达州导视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/dzds_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-达州公共,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/dzgg_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-达州新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/dzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-大邑电视台,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/dyytH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-大英新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/dyxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-丹棱综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/dlxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-德昌电视台,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/dcxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-东兴综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/dxxwzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-都江堰,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/djyzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-峨边电视台,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ebdst_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-峨眉综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/emsxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-恩阳新闻,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/eyxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-涪城综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/fcgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-富顺综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/fszh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-甘孜综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/gzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-高县-1,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/gxt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-古蔺新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/glxwzhgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-广安公共,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/gagg_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-广安区电视台,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/gaqxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-广安新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/gaxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-广汉综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ghxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-广元文化生活,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/gyggH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-广元综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/gyzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-汉源综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/hyxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-合江新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/hjxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-黑水,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/hsxwzhpdH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-洪雅新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/hyzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-华蓥综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/hyxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-会理新闻,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/hlyt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-夹江新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/jjxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-简阳新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/jyxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-剑阁综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/jgxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-江安电视台,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/jat_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-江油综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/jyxwHD_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-金口河综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/jkhdst_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-金牛,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/jnyx_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-金堂电视台,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/jtzhpd_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-开江新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/kjxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-乐山公共,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/lsggpd_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-乐山新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/lsxwzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-利州综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/lzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-凉山新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/lsxwHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-凉山彝语综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/yyzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-邻水,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/lsxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-龙泉综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/lqxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-隆昌综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/lcxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-芦山综合频道,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/lszh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-罗江,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ljxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-马边综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/mbxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-马尔康,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/mekxwzhpd_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-眉山综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/msxwzhgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-米易综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/myxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-绵阳科技,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/myetH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-绵阳新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/myytH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-绵竹,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/mzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-冕宁综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/mnxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-名山电视台,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/msdstH265_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-木里,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/mltHD_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-纳溪-1,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/nxxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-南部综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/nbxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-南充综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ncxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-南江电视台,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/njxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-南溪综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/nxt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-内江公共,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/njgg_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-内江综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/njzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-宁南综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/nnt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-攀钢新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/pgxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-攀枝花新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/pzhytH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-彭山综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/pszh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-彭州综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/pzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-蓬安综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/pazh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-蓬溪新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/pxxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-平昌综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/pcxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-平武综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/pwgq_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-屏山综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/psxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-蒲江综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/pjxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-普格综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/pgt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-前锋,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/qfxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-青白江综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/qbjxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-青川综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/qcxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-青神综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/qszh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-渠县新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/qxxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-仁和新闻,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/rhxwH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-荣县综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/rxzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-三台TV,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/stxwHD_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-射洪综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/shzhH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-石棉,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/smxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-什邡新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/sfx_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-双流综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/slgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-松潘,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/spxwzhpdH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-遂宁综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/snxwzhHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-天全新闻,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/tqzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-通川区,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/xcxwzhH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-通江综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/tjxwH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-万源,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/wyxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-旺苍新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/wcxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-温江综合频道,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/wjytH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-武胜综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/wsxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-五通桥,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/wtqxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-西昌,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/xctHD_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-西充综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/xczh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-喜德,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/xdxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-新都综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/xdzhpd_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-新津,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/xjzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-兴文电视台,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/xwt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-叙永电视台,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/xyxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-叙州新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ybx_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-宣汉综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/xhxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-雅安公共,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/yagg_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-雅安新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/yazh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-雅安雨城,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ycpd_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-盐边电视台,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ybtgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-盐亭1,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ytzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-雁江,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/yjxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-仪陇新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ylxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-宜宾公共,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ybetH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-宜宾新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ybytH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-营山,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ysxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-越西综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/yxt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-岳池,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ycxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-昭化综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/zhxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-中江新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/zjxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-资阳新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/zyxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-资中综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/zzzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-自贡文化生活,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/zggg_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-自贡综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/zgxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-郫县新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/pxds1_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-荥经电视台,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/xjdst_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-阆中综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/lzxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-沐川综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/mcxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-泸定综合频道,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ldxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-泸县综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/lxxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-泸州公共,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/lzgg_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-珙县新闻,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/gxzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-梓潼综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ztgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-犍为新闻综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/qwxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-筠连TV,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ylyt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-川网导视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/cwdsHDH264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-精品导视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/jpdsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-沙湾融媒,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/swxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-
-
-
-CCTV-1 综合,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CCTV-2 财经,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CCTV-3 综艺,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CCTV-4 中文国际,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CCTV-5 体育,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CCTV-5+ 体育赛事,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CCTV-6 电影,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CCTV-7 国防军事,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CCTV-8 电视剧,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CCTV-8H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CCTV-9 纪录,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CCTV-10 科教,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CCTV-10H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CCTV-11 戏曲,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CCTV-11-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CCTV-12 社会与法,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CCTV-12H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CCTV-13 新闻,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CCTV-xw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CCTV-14 少儿,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CCTV-15 音乐,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CCTV-15-yyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CCTV-16 奥林匹克,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CCTV-16_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CCTV-16 奥林匹克 4K,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CCTV-17 农业农村,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CCTV-17_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CCTV-4K 超高清,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-
-
-
-安徽卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ahwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-北京卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/bjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-兵团卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/btws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-重庆卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/cqwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-东方卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/dfwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-东南卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/dnwsfjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-甘肃卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/gsws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-广东卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/gdwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-广西卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/gxws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-贵州卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/gzwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-海南卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/hnws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-河南卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/hnws35_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-黑龙江卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/hljwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-湖北卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/hbwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-湖南卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/hnwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-吉林卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/jlwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-江苏卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/jswsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-江西卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/jxwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-辽宁卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/lnwsHDH264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-内蒙古卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/nmgws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-山东教育卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/sdjy_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-山东卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/sdwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-山西卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/sxws42_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-陕西卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/sxws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-深圳卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/szwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-天津卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/tjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-西藏卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/xzwsH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-云南卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ynws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-浙江卫视,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/zjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CETV-1,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CETV-1H264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CETV-4,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/CETV-4H264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-欢笑剧场4K,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/hxjc-4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1CBN幸福娱乐,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/xfyl_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CHC动作电影,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CHC高清电影,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CHC家庭影院,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-动漫秀场,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/yybb-dmxc-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-都市剧场,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/yxfydsjcHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-法治天地,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/fztx_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-纪实科教,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/bjjs_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-嘉佳卡通,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/jjkt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-家庭理财,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/jtlc_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-江苏财富天下,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/cftx_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-金鹰纪实,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/jyjsHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-金鹰卡通,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/jykt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-劲爆体育,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/lqhxjcHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-卡酷少儿,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/kkkt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-快乐垂钓,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/fyzqklcdHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-乐游,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/qjs-HDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-梨园频道,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ly_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-魅力足球,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/mlyy_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-七彩戏剧,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/qcxj_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-摄影频道,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/sy_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-生活时尚,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/shssH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-四海钓鱼,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/shdy_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-天元围棋,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/tywq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-武术世界,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/wssj_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-先锋乒羽,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/xfpy_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-新视觉,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ycxsjH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-证劵服务,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/jz_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-中国天气,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/zgqx_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-中央新影-发现之旅,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/fxzl_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-中央新影-老故事,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/lgs_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-中央新影-中学生,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/zxs_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 
 
 
@@ -4835,3 +4583,108 @@ KTTV1,http://office.gofaraway.top:888/udp/238.125.7.185:5140
 YPH1,http://office.gofaraway.top:888/udp/238.125.7.193:5140
 YPH2,http://office.gofaraway.top:888/udp/238.125.7.194:5140
 十二师,http://office.gofaraway.top:888/udp/238.125.7.114:5140
+
+
+
+
+霓虹,#genre#
+
+NHK G 東京,http://jp.vthanhnetwork.com/NHK_G/index.m3u8
+NHK E,http://jp.vthanhnetwork.com/NHK_E/index.m3u8
+日本テレビ,http://jp.vthanhnetwork.com/Nippon_TV/index.m3u8
+TBSテレビ,http://jp.vthanhnetwork.com/TBS/index.m3u8
+フジテレビ,http://jp.vthanhnetwork.com/Fuji_TV/index.m3u8
+テレビ朝日,http://jp.vthanhnetwork.com/TV_Asahi/index.m3u8
+テレビ東京,http://jp.vthanhnetwork.com/TV_Tokyo/index.m3u8
+TOKYO MX1,http://jp.vthanhnetwork.com/Tokyo_MX1/index.m3u8
+
+
+
+
+NHK G 東京,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
+NHK E,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
+日本テレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=10&bind=0&uin=159413&playseek=0
+TBSテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
+フジテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=0
+テレビ朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
+テレビ東京,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0
+TOKYO MX1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=
+NHK総合 大阪,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
+MBS毎日放送,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
+ABC朝日放送,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
+カンテレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=10&bind=0&uin=159413&playseek=0
+読売テレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=10&bind=0&uin=159413&playseek=0
+テレビ大阪,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
+サンテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=10&bind=0&uin=159413&playseek=0
+
+
+
+
+NHK BS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
+NHK BSP 4K,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
+BS日テレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
+BS朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
+BS-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
+BSテレ東,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
+BSフジ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
+WOWOWプライム ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+WOWOWライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+WOWOWシネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+スターチャンネル1),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=10&bind=0&uin=159413&playseek=0
+スターチャンネル2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27&isp=10&bind=0&uin=159413&playseek=0
+スターチャンネル3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28&isp=10&bind=0&uin=159413&playseek=0
+BSアニマックス,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
+グリーン チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=10&bind=0&uin=159413&playseek=0
+釣りビジョン,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&isp=10&bind=0&uin=159413&playseek=0
+JSPORTS 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+JSPORTS 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+JSPORTS 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+JSPORTS 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+日本映画専門チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=10&bind=0&uin=159413&playseek=0
+ディズニーチャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=10&bind=0&uin=159413&playseek=0
+BS11,http://jp.vthanhnetwork.com/BS11/index.m3u8
+BS松竹東急,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=10&bind=0&uin=159413&playseek=0
+
+
+
+旅チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=0
+Music JapanTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&bind=0&uin=159413&playseek=0
+ホームドラマチャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=10&bind=0&uin=159413&playseek=0
+東映チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=10&bind=0&uin=159413&playseek=0
+衛星劇場,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=10&bind=0&uin=159413&playseek=0
+ムービープラス,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=10&bind=0&uin=159413&playseek=0
+スカイA,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=10&bind=0&uin=159413&playseek=0
+GAORA SPORTS ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=10&bind=0&uin=159413&playseek=0
+日テレジータス,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=10&bind=0&uin=159413&playseek=0
+ゴルフネットワーク (primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+宝塚歌劇専門チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28&isp=10&bind=0&uin=159413&playseek=0
+時代劇専門チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=10&bind=0&uin=159413&playseek=0
+ファミリー劇場,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&isp=10&bind=0&uin=159413&playseek=0
+チャンネル銀河,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=10&bind=0&uin=159413&playseek=0
+歌謡ポップスチャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13&isp=10&bind=0&uin=159413&playseek=0
+AT-X,http://jp.vthanhnetwork.com/AT-X/index.m3u8
+MONDO TV ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&isp=10&bind=0&uin=159413&playseek=0
+フジテレビNEXT,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=10&bind=0&uin=159413&playseek=0
+LaLaTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19&isp=10&bind=0&uin=159413&playseek=0
+MTV Japan,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=10&bind=0&uin=159413&playseek=0
+スペースシャワーTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=10&bind=0&uin=159413&playseek=
+キッズステーション,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
+Cartoon Network,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&isp=10&bind=0&uin=159413&playseek=0
+ディズニージュニア,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&isp=10&bind=0&uin=159413&playseek=0
+ヒストリーチャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
+ディスカバリーチャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=10&bind=0&uin=159413&playseek=0
+ナショナル ジオグラフィッ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=10&bind=0&uin=159413&playseek=0
+CNN J,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=10&bind=0&uin=159413&playseek=0
+BBC NEWS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=10&bind=0&uin=159413&playseek=0
+
+
+
+
+
+
+
+
+
+
+
+
