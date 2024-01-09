@@ -679,6 +679,11 @@ TVBS欢乐,rtmp://9sv2.mine.nu:1935/sat/tv421
 
 
 
+纬来体育,http://60.248.77.83/sat/tv721.flv
+纬来体育,http://cloud.yumixiu768.com/tmp/123.m3u8
+ELEVEN1,http://60.248.77.83/sat/tv731.flv
+ELEVEN2,http://60.248.77.83/sat/tv741.flv
+MOMO综合,http://60.248.77.83/sat/tv761.flv
 
 
 卡通频道(巴西),https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
@@ -732,13 +737,14 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 🇨🇳地方台,,#genre#
 
 辽宁卫视,http://36.129.58.53:8008/paiptv/LNWS.m3u8
-辽宁都市,http://36.129.58.53:8008/paiptv/LNDS.m3u8
 辽宁经济,http://36.129.58.53:8008/paiptv/LNJJ.m3u8
 辽宁生活,http://36.129.58.53:8008/paiptv/LNSH.m3u8
 辽宁影视剧,http://36.129.58.53:8008/paiptv/LNYSJ.m3u8
 辽宁北方,http://36.129.58.53:8008/paiptv/LNBF.m3u8
 辽宁公共,http://36.129.58.53:8008/paiptv/LNGG.m3u8
 辽宁体育,http://36.129.58.53:8008/paiptv/LNTY.m3u8
+辽宁都市,http://36.129.58.53:8008/paiptv/LNDS.m3u8
+
 
 
 吉林卫视,http://125.32.116.75:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
