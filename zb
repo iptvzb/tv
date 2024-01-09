@@ -927,7 +927,6 @@ Loupe 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 
 影视4k,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/PLTV/1/224/3221230435/1.m3u8
 华数4k,http://nas.jdshipin.com:8801/4kys.php
-纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 修复4K,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8?
 江苏移动影视轮播,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
@@ -1014,6 +1013,11 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 陕西生活,http://222.90.82.47:8899/udp/239.111.205.98:5140
 陕西西部电影,http://222.90.82.47:8899/udp/239.111.205.102:5140
 
+
+
+
+
+
 陕西卫视,http://61.185.200.187:55555/rtp/239.111.205.35:5140
 陕西体育,http://61.185.200.187:55555/rtp/239.111.205.36:5140
 陕西新闻,http://61.185.200.187:55555/rtp/239.111.205.28:5140
@@ -1046,7 +1050,11 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 北京|IPTV淘电影,http://iptv.8t.cx:8180/udp/239.2.1.250:8002
 北京IPTV淘Baby,http://iptv.8t.cx:8180/udp/239.2.1.238:8002
 北京|淘精彩,http://webmail.axxe.top:4022/udp/239.3.1.178:8001
-
+中国交通,http://iptv.8t.cx:8180/udp/228.1.1.222:8002
+睛彩竞技,http://iptv.8t.cx:8180/udp/228.1.1.223:8002
+睛彩篮球,http://iptv.8t.cx:8180/udp/228.1.1.224:8002
+睛彩羽毛球,http://iptv.8t.cx:8180/udp/228.1.1.225:8002
+睛彩广场舞,http://iptv.8t.cx:8180/udp/228.1.1.226:8002
 
 
 
@@ -1062,45 +1070,17 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 重庆|汽摩,http://183.66.66.199:2345/udp/235.254.199.169:7980
 重庆|移动,http://183.66.66.199:2345/udp/235.254.199.170:7980
 睛彩|重庆,http://183.66.66.199:2345/udp/235.254.196.218:1146
+开州综合,http://183.66.66.199:2345/udp/235.254.199.145:7980
+黔江综合,http://183.66.66.199:2345/udp/235.254.199.233:7980
+丰都综合,http://183.66.66.199:2345/udp/235.254.199.221:7980
+城口综合,http://183.66.66.199:2345/udp/235.254.199.218:7980
+石柱综合,http://183.66.66.199:2345/udp/235.254.199.224:7980
+巫溪综合,http://183.66.66.199:2345/udp/235.254.199.215:7980
+武隆综合,http://183.66.66.199:2345/udp/235.254.199.227:7980
+酉阳综合,http://183.66.66.199:2345/udp/235.254.199.236:7980
 
 
 
-
-
-
-四川经济,http://vl15191373.imwork.net:8880/rtp/239.93.1.101:5140
-四川文化旅游,http://vl15191373.imwork.net:8880/rtp/239.93.1.102:5140
-四川新闻,http://vl15191373.imwork.net:8880/rtp/239.93.0.47:5140
-四川影视文艺,http://vl15191373.imwork.net:8880/rtp/239.93.0.166:5140
-四川乡村,http://vl15191373.imwork.net:8880/rtp/239.93.0.52:5140
-四川妇女儿童,http://vl15191373.imwork.net:8880/rtp/239.93.0.219:5140
-四川科教,http://vl15191373.imwork.net:8880/rtp/239.93.42.44:5140
-四川乡村,http://vl15191373.imwork.net:8880/rtp/239.93.0.52:5140
-峨眉电影,http://vl15191373.imwork.net:8880/rtp/239.93.0.252:5140
-成都综合,http://vl15191373.imwork.net:8880/rtp/239.93.0.16:5140
-成都经济,http://vl15191373.imwork.net:8880/rtp/239.93.0.17:1239
-成都生活,http://vl15191373.imwork.net:8880/rtp/239.93.0.18:1238
-成都影视,http://vl15191373.imwork.net:8880/rtp/239.93.0.19:1250
-成都公共,http://vl15191373.imwork.net:8880/rtp/239.93.1.231:5140
-成都少儿,http://vl15191373.imwork.net:8880/rtp/239.93.0.21:1251
-收视导视,http://vl15191373.imwork.net:8880/rtp/239.93.1.39:5140
-康巴卫视,http://vl15191373.imwork.net:8880/rtp/239.93.0.41:5140
-熊猫影院,http://vl15191373.imwork.net:8880/rtp/239.93.0.214:5140
-熊猫少儿,http://vl15191373.imwork.net:8880/rtp/239.93.1.189:5140
-熊猫体娱,http://vl15191373.imwork.net:8880/rtp/239.93.0.94:5140
-熊猫爱生活,http://vl15191373.imwork.net:8880/rtp/239.93.1.190:5140
-大爱四川,http://vl15191373.imwork.net:8880/rtp/239.93.1.110:5140
-大爱旅游,http://vl15191373.imwork.net:8880/rtp/239.93.42.70:5140
-大爱生活,http://vl15191373.imwork.net:8880/rtp/239.93.42.71:5140
-大爱时尚,http://vl15191373.imwork.net:8880/rtp/239.93.42.72:5140
-中国交通,http://vl15191373.imwork.net:8880/rtp/239.93.42.62:5140
-大爱旅游,http://vl15191373.imwork.net:8880/rtp/239.93.1.234:5140
-大爱生活,http://vl15191373.imwork.net:8880/rtp/239.93.1.235:5140
-大爱时尚,http://vl15191373.imwork.net:8880/rtp/239.93.1.157:4120
-爱生活,http://vl15191373.imwork.net:8880/rtp/239.93.0.206:8028
-家政频道,http://vl15191373.imwork.net:8880/rtp/239.93.42.48:5140
-宝宝动画,http://vl15191373.imwork.net:8880/rtp/239.93.0.147:5140
-热门综艺,http://vl15191373.imwork.net:8880/rtp/239.93.0.151:5140
 
 
 
@@ -1138,9 +1118,20 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 南宁都市,http://opdf.top:8088/udp/239.81.0.139:4056
 百色综合,http://opdf.top:8088/udp/239.81.0.150:4056
 贵港综合,http://opdf.top:8088/udp/239.81.0.172:4056
+柳州新闻,http://opdf.top:8088/udp/239.81.0.134:4056
+北海新闻,http://opdf.top:8088/udp/239.81.0.136:4056
+玉林新闻,http://opdf.top:8088/udp/239.81.0.138:4056
+贺州新闻,http://opdf.top:8088/udp/239.81.0.137:4056
+桂林新闻,http://opdf.top:8088/udp/239.81.0.135:4056
 
 
-
+四川|新闻,http://lu1.cc/itv/sctv/scxl.php?id=scxw
+四川|经济,http://lu1.cc/itv/sctv/scxl.php?id=scjj
+四川|文化,http://lu1.cc/itv/sctv/scxl.php?id=scwhly
+四川|影视,http://lu1.cc/itv/sctv/scxl.php?id=scyswy
+四川|妇女儿童,http://lu1.cc/itv/sctv/scxl.php?id=scfnet
+四川|经济,http://lu1.cc/itv/sctv/scxl.php?id=scxc
+四川|康巴,http://lu1.cc/itv/sctv/scxl.php?id=kbws
 
 
 
@@ -1228,18 +1219,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 
 
-四川|新闻,http://lu1.cc/itv/sctv/scxl.php?id=scxw
-四川|经济,http://lu1.cc/itv/sctv/scxl.php?id=scjj
-四川|文化,http://lu1.cc/itv/sctv/scxl.php?id=scwhly
-四川|影视,http://lu1.cc/itv/sctv/scxl.php?id=scyswy
-四川|妇女儿童,http://lu1.cc/itv/sctv/scxl.php?id=scfnet
-四川|经济,http://lu1.cc/itv/sctv/scxl.php?id=scxc
-四川|康巴,http://lu1.cc/itv/sctv/scxl.php?id=kbws
-
-
-
-
-
 
 
 安徽|卫视,http://waj88.3322.org:2000/rtp/238.1.79.27:4328
@@ -1316,54 +1295,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 江西|教育,http://59.52.130.24:9901/tsfile/live/65455_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-河南导视,http://iptv.flymeto.top:10001/udp/239.16.20.17:10170
-河南导视,http://iptv.flymeto.top:10001/udp/239.16.20.243:12430
-河南卫视,http://iptv.flymeto.top:10001/udp/239.16.20.21:10210
-河南都市,http://iptv.flymeto.top:10001/udp/239.16.20.164:11640
-河南民生,http://iptv.flymeto.top:10001/udp/239.16.20.165:11650
-河南法治,http://iptv.flymeto.top:10001/udp/239.16.20.166:11660
-河南影视,http://iptv.flymeto.top:10001/udp/239.16.20.167:11670
-河南新闻,http://iptv.flymeto.top:10001/udp/239.16.20.168:11680
-河南公共,http://iptv.flymeto.top:10001/udp/239.16.20.170:11700
-河南戏曲,http://iptv.flymeto.top:10001/udp/239.16.20.171:11710
-河南收藏,http://iptv.flymeto.top:10001/udp/239.16.20.172:11720
-河南功夫,http://iptv.flymeto.top:10001/udp/239.16.20.173:11730
-河南乡村,http://iptv.flymeto.top:10001/udp/239.16.20.195:11950
-河南国际,http://iptv.flymeto.top:10001/udp/239.16.20.196:11960
-河南移动,http://iptv.flymeto.top:10001/udp/239.16.20.204:12040
-河南欢腾,http://iptv.flymeto.top:10001/udp/239.16.20.169:11690
-河南欢腾,http://iptv.flymeto.top:10001/udp/239.16.20.231:12310
-河南欢腾,http://iptv.flymeto.top:10001/udp/239.16.20.233:12330
-健康河南,http://iptv.flymeto.top:10001/udp/239.16.20.52:10520
-健康河南,http://iptv.flymeto.top:10001/udp/239.16.20.239:12390
-郑州戏曲,http://iptv.flymeto.top:10001/udp/239.16.20.120:11200
-郑州晴彩,http://iptv.flymeto.top:10001/udp/239.16.20.122:11220
-安阳综合,http://iptv.flymeto.top:10001/udp/239.16.20.144:11440
-安阳科教,http://iptv.flymeto.top:10001/udp/239.16.20.193:11930
-安阳公共,http://iptv.flymeto.top:10001/udp/239.16.20.224:12240
-洛阳科教,http://iptv.flymeto.top:10001/udp/239.16.20.177:11770
-洛阳文旅,http://iptv.flymeto.top:10001/udp/239.16.20.178:11780
-洛阳综合,http://iptv.flymeto.top:10001/udp/239.16.20.179:11790
-平教育台,http://iptv.flymeto.top:10001/udp/239.16.20.27:10270
-新乡综合,http://iptv.flymeto.top:10001/udp/239.16.20.45:10450
-渑池综合,http://iptv.flymeto.top:10001/udp/239.16.20.47:10470
-宝丰综合,http://iptv.flymeto.top:10001/udp/239.16.20.63:10630
-新乡综合,http://iptv.flymeto.top:10001/udp/239.16.20.139:11390
-新乡公共,http://iptv.flymeto.top:10001/udp/239.16.20.154:11540
-焦作综合,http://iptv.flymeto.top:10001/udp/239.16.20.140:11400
-焦作公共,http://iptv.flymeto.top:10001/udp/239.16.20.155:11550
-义马综合,http://iptv.flymeto.top:10001/udp/239.16.20.109:11090
-义马综合,http://iptv.flymeto.top:10001/udp/239.16.20.236:12360
-渑池综合,http://iptv.flymeto.top:10001/udp/239.16.20.135:11350
-滑县综合,http://iptv.flymeto.top:10001/udp/239.16.20.159:11590
-浚县综合,http://iptv.flymeto.top:10001/udp/239.16.20.176:11760
-新安综合,http://iptv.flymeto.top:10001/udp/239.16.20.188:11880
-孟津综合,http://iptv.flymeto.top:10001/udp/239.16.20.192:11920
-宜阳综合,http://iptv.flymeto.top:10001/udp/239.16.20.206:12060
-卢氏综合,http://iptv.flymeto.top:10001/udp/239.16.20.240:12400
-叶县电视台,http://iptv.flymeto.top:10001/udp/239.16.20.136:11360
-叶县电视台,http://iptv.flymeto.top:10001/udp/239.16.20.32:10320
-三门峡综合,http://iptv.flymeto.top:10001/udp/239.16.20.145:11450
+
 
 河南卫视,http://61.163.181.78:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 河南都市,http://61.163.181.78:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -3761,13 +3693,63 @@ CHC家庭影院,http://125.40.27.129:8888/udp/225.1.4.209:1262
 
 
 
+河南电信,#genre#
+
+河南卫视,http://iptv.flymeto.top:10001/udp/239.16.20.21:10210
+河南都市,http://iptv.flymeto.top:10001/udp/239.16.20.164:11640
+河南民生,http://iptv.flymeto.top:10001/udp/239.16.20.165:11650
+河南法治,http://iptv.flymeto.top:10001/udp/239.16.20.166:11660
+河南影视,http://iptv.flymeto.top:10001/udp/239.16.20.167:11670
+河南新闻,http://iptv.flymeto.top:10001/udp/239.16.20.168:11680
+河南公共,http://iptv.flymeto.top:10001/udp/239.16.20.170:11700
+河南戏曲,http://iptv.flymeto.top:10001/udp/239.16.20.171:11710
+河南收藏,http://iptv.flymeto.top:10001/udp/239.16.20.172:11720
+河南功夫,http://iptv.flymeto.top:10001/udp/239.16.20.173:11730
+河南乡村,http://iptv.flymeto.top:10001/udp/239.16.20.195:11950
+河南国际,http://iptv.flymeto.top:10001/udp/239.16.20.196:11960
+河南移动,http://iptv.flymeto.top:10001/udp/239.16.20.204:12040
+河南导视,http://iptv.flymeto.top:10001/udp/239.16.20.17:10170
+河南导视,http://iptv.flymeto.top:10001/udp/239.16.20.243:12430
+健康河南,http://iptv.flymeto.top:10001/udp/239.16.20.52:10520
+健康河南,http://iptv.flymeto.top:10001/udp/239.16.20.239:12390
+郑州戏曲,http://iptv.flymeto.top:10001/udp/239.16.20.120:11200
+郑州晴彩,http://iptv.flymeto.top:10001/udp/239.16.20.122:11220
+安阳综合,http://iptv.flymeto.top:10001/udp/239.16.20.144:11440
+安阳科教,http://iptv.flymeto.top:10001/udp/239.16.20.193:11930
+安阳公共,http://iptv.flymeto.top:10001/udp/239.16.20.224:12240
+洛阳科教,http://iptv.flymeto.top:10001/udp/239.16.20.177:11770
+洛阳文旅,http://iptv.flymeto.top:10001/udp/239.16.20.178:11780
+洛阳综合,http://iptv.flymeto.top:10001/udp/239.16.20.179:11790
+平教育台,http://iptv.flymeto.top:10001/udp/239.16.20.27:10270
+新乡综合,http://iptv.flymeto.top:10001/udp/239.16.20.45:10450
+渑池综合,http://iptv.flymeto.top:10001/udp/239.16.20.47:10470
+宝丰综合,http://iptv.flymeto.top:10001/udp/239.16.20.63:10630
+新乡综合,http://iptv.flymeto.top:10001/udp/239.16.20.139:11390
+新乡公共,http://iptv.flymeto.top:10001/udp/239.16.20.154:11540
+焦作综合,http://iptv.flymeto.top:10001/udp/239.16.20.140:11400
+焦作公共,http://iptv.flymeto.top:10001/udp/239.16.20.155:11550
+义马综合,http://iptv.flymeto.top:10001/udp/239.16.20.109:11090
+义马综合,http://iptv.flymeto.top:10001/udp/239.16.20.236:12360
+渑池综合,http://iptv.flymeto.top:10001/udp/239.16.20.135:11350
+滑县综合,http://iptv.flymeto.top:10001/udp/239.16.20.159:11590
+浚县综合,http://iptv.flymeto.top:10001/udp/239.16.20.176:11760
+新安综合,http://iptv.flymeto.top:10001/udp/239.16.20.188:11880
+孟津综合,http://iptv.flymeto.top:10001/udp/239.16.20.192:11920
+宜阳综合,http://iptv.flymeto.top:10001/udp/239.16.20.206:12060
+卢氏综合,http://iptv.flymeto.top:10001/udp/239.16.20.240:12400
+叶县电视台,http://iptv.flymeto.top:10001/udp/239.16.20.136:11360
+叶县电视台,http://iptv.flymeto.top:10001/udp/239.16.20.32:10320
+三门峡综合,http://iptv.flymeto.top:10001/udp/239.16.20.145:11450
+
+
+
+
+
 
 
 
 
 河北电信,#genre#
-
-
 
 河北卫视,http://121.29.111.35:8888/udp/239.253.92.154:6011
 河北经济生活,http://121.29.111.35:8888/udp/239.253.92.171:6001
@@ -3852,7 +3834,6 @@ CHC家庭影院,http://125.40.27.129:8888/udp/225.1.4.209:1262
 
 
 河北电信2,#genre#
-
 
 河北卫视,http://106.115.195.133:8888/udp/239.254.200.174:6000
 河北经济生活,http://106.115.195.133:8888/udp/239.254.200.18:6000
@@ -4166,7 +4147,7 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 
 
 
-江苏移动,#genre#
+江苏电信,#genre#
 
 
 江苏卫视HD,http://117.86.50.122:8888/udp/239.49.8.16:9602
