@@ -404,24 +404,6 @@ CCTV-4K,https://epg.pw/stream/3a56a84746130bd7de78e2a7a8d20c043c6f01137636ff502c
 
 
 
-CCTV1,http://tvphp1.rbq.plus/migu.php?id=cctv1
-CCTV2,http://tvphp1.rbq.plus/migu.php?id=cctv2
-CCTV3,http://tvphp1.rbq.plus/migu.php?id=cctv3
-CCTV4,http://tvphp1.rbq.plus/migu.php?id=cctv4
-CCTV5,http://tvphp1.rbq.plus/migu.php?id=cctv5
-CCTV5+,http://tvphp1.rbq.plus/migu.php?id=cctv5p
-CCTV6,http://tvphp1.rbq.plus/migu.php?id=cctv6
-CCTV7,http://tvphp1.rbq.plus/migu.php?id=cctv7
-CCTV8,http://tvphp1.rbq.plus/migu.php?id=cctv8
-CCTV9,http://tvphp1.rbq.plus/migu.php?id=cctv9
-CCTV10,http://tvphp1.rbq.plus/migu.php?id=cctv10
-CCTV11,http://tvphp1.rbq.plus/migu.php?id=cctv11
-CCTV12,http://tvphp1.rbq.plus/migu.php?id=cctv12
-CCTV13,http://tvphp1.rbq.plus/migu.php?id=cctv13
-CCTV14,http://tvphp1.rbq.plus/migu.php?id=cctv14
-CCTV15,http://tvphp1.rbq.plus/migu.php?id=cctv15
-CCTV17,http://tvphp1.rbq.plus/migu.php?id=cctv17
-
 
 
 
@@ -749,40 +731,14 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 🇨🇳地方台,,#genre#
 
-辽宁卫视,http://42.179.43.41:9901/tsfile/live/1165_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁北方,http://42.179.43.41:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁都市,http://42.179.43.41:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁公共,http://42.179.43.41:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁经济,http://42.179.43.41:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁生活,http://42.179.43.41:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁体育,http://42.179.43.41:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁影视,http://42.179.43.41:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁移动电视,http://42.179.43.41:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁沈阳新闻,http://42.179.43.41:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-辽宁北方,http://42.179.40.167:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁都市,http://42.179.40.167:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁公共,http://42.179.40.167:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁经济,http://42.179.40.167:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁生活,http://42.179.40.167:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁体育,http://42.179.40.167:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁影视,http://42.179.40.167:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-
-辽宁卫视,http://tvh.990066.xyz:8880/stream/channelid/1811658411?profile=pass
-辽宁经济,http://tvh.990066.xyz:8880/stream/channelid/2486592?profile=pass
-辽宁生活,http://tvh.990066.xyz:8880/stream/channelid/1484047033?profile=pass
-辽宁体育,http://tvh.990066.xyz:8880/stream/channelid/1994465514?profile=pass
-辽宁青少,http://tvh.990066.xyz:8880/stream/channelid/1805824096?profile=pass
-辽宁公共,http://tvh.990066.xyz:8880/stream/channelid/1954921874?profile=pass
-辽宁都市,http://tvh.990066.xyz:8880/stream/channelid/521248819?profile=pass
-辽宁北方,http://tvh.990066.xyz:8880/stream/channelid/1907807653?profile=pass
-辽宁影视剧,http://tvh.990066.xyz:8880/stream/channelid/786435660?profile=pass
-辽宁移动电视,http://tvh.990066.xyz:8880/stream/channelid/2004270827?profile=pass
-辽宁新动漫,http://tvh.990066.xyz:8880/stream/channelid/88415479?profile=pass
-辽宁沈阳新闻,http://tvh.990066.xyz:8880/stream/channelid/867729106?profile=pass
+辽宁卫视,http://36.129.58.53:8008/paiptv/LNWS.m3u8
+辽宁都市,http://36.129.58.53:8008/paiptv/LNDS.m3u8
+辽宁经济,http://36.129.58.53:8008/paiptv/LNJJ.m3u8
+辽宁生活,http://36.129.58.53:8008/paiptv/LNSH.m3u8
+辽宁影视剧,http://36.129.58.53:8008/paiptv/LNYSJ.m3u8
+辽宁北方,http://36.129.58.53:8008/paiptv/LNBF.m3u8
+辽宁公共,http://36.129.58.53:8008/paiptv/LNGG.m3u8
+辽宁体育,http://36.129.58.53:8008/paiptv/LNTY.m3u8
 
 
 吉林卫视,http://125.32.116.75:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -1571,7 +1527,7 @@ CCTV电视指南,http://120.234.220.107:7000/udp/239.21.0.81:3664
 金鹰卡通,http://120.234.220.107:7000/udp/239.21.0.115:3804
 早期教育,http://120.234.220.107:7000/udp/239.21.0.106:3764
 中国交通,http://120.234.220.107:7000/udp/239.20.0.68:3128
-快乐垂钓,http://120.234.220.107:7000/udp/239.21.0.121:3828
+快乐119.118.174.252:8888,http://120.234.220.107:7000/udp/239.21.0.121:3828
 茶频道,http://120.234.220.107:7000/udp/239.21.0.120:3824
 
 
@@ -1987,7 +1943,7 @@ CGTN俄语,http://114.254.89.131:2222/udp/239.3.1.220:4220
 金鹰纪实,http://114.254.89.131:2222/udp/239.3.1.58:8156
 上海纪实,http://114.254.89.131:2222/udp/239.3.1.212:8060
 中国交通,http://114.254.89.131:2222/udp/239.3.1.188:8001
-快乐垂钓,http://114.254.89.131:2222/udp/239.3.1.164:8001
+快乐119.118.174.252:8888,http://114.254.89.131:2222/udp/239.3.1.164:8001
 茶频道台,http://114.254.89.131:2222/udp/239.3.1.165:8001
 爱上4K,http://114.254.89.131:2222/udp/239.3.1.236:2000
 每日影院,http://114.254.89.131:2222/udp/239.3.1.111:8001
@@ -2144,7 +2100,7 @@ CETV早期教育,http://171.120.109.153:8085/udp/226.0.2.99:8704
 法治天地,http://171.120.109.153:8085/udp/226.0.2.83:8576
 乐游频道,http://171.120.109.153:8085/udp/226.0.2.77:8528
 茶频道,http://171.120.109.153:8085/udp/226.0.2.213:9616
-快乐垂钓,http://171.120.109.153:8085/udp/226.0.2.214:9624
+快乐119.118.174.252:8888,http://171.120.109.153:8085/udp/226.0.2.214:9624
 幸福彩,http://171.120.109.153:8085/udp/226.0.2.187:9408
 
 金鹰卡通,http://171.120.109.153:8085/udp/226.0.2.172:9288
@@ -2292,7 +2248,7 @@ CETV-4,http://27.210.199.239:8888/udp/239.253.254.116:8000
 生活时尚,http://27.210.199.239:8888/udp/239.253.254.99:8000
 游戏风云,http://27.210.199.239:8888/udp/239.253.254.95:8000
 茶频道,http://27.210.199.239:8888/udp/239.253.254.143:8000
-快乐垂钓,http://27.210.199.239:8888/udp/239.253.254.144:8000
+快乐119.118.174.252:8888,http://27.210.199.239:8888/udp/239.253.254.144:8000
 
 
 
@@ -2696,8 +2652,8 @@ CCTV17,http://122.233.192.201:8888/udp/233.50.200.113:5140
 法治天地,http://122.233.192.201:8888/udp/233.50.201.191:5140
 金色学堂,http://122.233.192.201:8888/udp/233.50.200.122:5140
 金色学堂,http://122.233.192.201:8888/udp/233.50.201.186:5140
-快乐垂钓,http://122.233.192.201:8888/udp/233.50.200.123:5140
-快乐垂钓,http://122.233.192.201:8888/udp/233.50.201.109:5140
+快乐119.118.174.252:8888,http://122.233.192.201:8888/udp/233.50.200.123:5140
+快乐119.118.174.252:8888,http://122.233.192.201:8888/udp/233.50.201.109:5140
 茶频道,http://122.233.192.201:8888/udp/233.50.200.124:5140
 茶频道,http://122.233.192.201:8888/udp/233.50.201.188:5140
 第一财经,http://122.233.192.201:8888/udp/233.50.200.125:5140
@@ -2871,8 +2827,8 @@ CCTV17,http://ct.sxler.tk:8888/udp/233.50.200.113:5140
 法治天地,http://ct.sxler.tk:8888/udp/233.50.201.191:5140
 金色学堂,http://ct.sxler.tk:8888/udp/233.50.200.122:5140
 金色学堂,http://ct.sxler.tk:8888/udp/233.50.201.186:5140
-快乐垂钓,http://ct.sxler.tk:8888/udp/233.50.200.123:5140
-快乐垂钓,http://ct.sxler.tk:8888/udp/233.50.201.109:5140
+快乐119.118.174.252:8888,http://ct.sxler.tk:8888/udp/233.50.200.123:5140
+快乐119.118.174.252:8888,http://ct.sxler.tk:8888/udp/233.50.201.109:5140
 茶频道,http://ct.sxler.tk:8888/udp/233.50.200.124:5140
 茶频道,http://ct.sxler.tk:8888/udp/233.50.201.188:5140
 第一财经,http://ct.sxler.tk:8888/udp/233.50.200.125:5140
@@ -3068,7 +3024,7 @@ CETV1,http://ddns.267565.xyz:8888/udp/238.1.78.158:7136
 徽生活,http://ddns.267565.xyz:8888/udp/238.1.79.37:4408
 中国足协杯,http://ddns.267565.xyz:8888/udp/238.1.79.39:4424
 茶频道,http://ddns.267565.xyz:8888/udp/238.1.79.30:4352
-快乐垂钓,http://ddns.267565.xyz:8888/udp/238.1.79.31:4360
+快乐119.118.174.252:8888,http://ddns.267565.xyz:8888/udp/238.1.79.31:4360
 体育赛事,http://ddns.267565.xyz:8888/udp/238.1.78.33:6192
 
 
@@ -3164,7 +3120,7 @@ CETV4,http://223.215.32.224:8888/udp/238.1.78.107:6728
 动漫秀场HD,http://223.215.32.224:8888/udp/238.1.78.154:7104
 金鹰纪实HD,http://223.215.32.224:8888/udp/238.1.79.9:4184
 茶频道HD,http://223.215.32.224:8888/udp/238.1.79.30:4352
-快乐垂钓HD,http://223.215.32.224:8888/udp/238.1.79.31:4360
+快乐119.118.174.252:8888HD,http://223.215.32.224:8888/udp/238.1.79.31:4360
 生活时尚HD,http://223.215.32.224:8888/udp/238.1.78.155:7112
 体育赛事HD,http://223.215.32.224:8888/udp/238.1.78.33:6192
 中甲联赛HD,http://223.215.32.224:8888/udp/238.1.79.39:4424
@@ -3374,10 +3330,10 @@ CETV4,http://223.215.32.224:8888/udp/238.1.78.107:6728
 辽宁卫视,http://118.251.62.80:8888/udp/239.76.245.197:1234
 梨园,http://118.251.62.80:8888/udp/239.76.252.179:9000
 梨园,http://118.251.62.80:8888/udp/239.76.245.179:1234
-快乐垂钓,http://118.251.62.80:8888/udp/239.76.253.5:9000
-快乐垂钓,http://118.251.62.80:8888/udp/239.76.252.127:9000
-快乐垂钓,http://118.251.62.80:8888/udp/239.76.246.5:1234
-快乐垂钓,http://118.251.62.80:8888/udp/239.76.245.127:1234
+快乐119.118.174.252:8888,http://118.251.62.80:8888/udp/239.76.253.5:9000
+快乐119.118.174.252:8888,http://118.251.62.80:8888/udp/239.76.252.127:9000
+快乐119.118.174.252:8888,http://118.251.62.80:8888/udp/239.76.246.5:1234
+快乐119.118.174.252:8888,http://118.251.62.80:8888/udp/239.76.245.127:1234
 卡酷少儿,http://118.251.62.80:8888/udp/239.76.247.81:1234
 军旅剧场,http://118.251.62.80:8888/udp/239.76.252.134:9000
 军旅剧场,http://118.251.62.80:8888/udp/239.76.245.134:1234
@@ -4035,7 +3991,7 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 兵团卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN126389BESTVSMGSMG9/index.m3u8?AuthInfo=kXVqgwiFNDsA8L8UADdm1g0lb%2BtkfnGmv76VRSC5BUjrd9dcupuLFZtkbnZDW1ncykI0zNYTgRcsAj5Z6uTckA%3D%3D
 湖南金鹰纪实,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4766929BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaWf4k%2B88FALXqp3i7ExZ4HArfvJF2pWpm4RxcBNhZ7j8oKdkoj6hFDX2k81AyJk8L2ZgQL4lTNsyfhwMVyjNWA
 湖南金鹰卡通,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
-湖南快乐垂钓,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRJiJ8tFyWVQ4LIMJg%2BXyuQCUUYb4If0LygirGPvYsbTi60DjU3KKPbFtbFrR1EGj%2FI
+湖南快乐119.118.174.252:8888,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRJiJ8tFyWVQ4LIMJg%2BXyuQCUUYb4If0LygirGPvYsbTi60DjU3KKPbFtbFrR1EGj%2FI
 
 
 
@@ -4192,7 +4148,7 @@ CCTV文化精品,http://121.238.106.59:8088/rtp/239.49.9.11:6000
 金色频道,http://121.238.106.59:8088/rtp/239.49.1.169:6000
 金鹰纪实,http://121.238.106.59:8088/rtp/239.49.8.203:6000
 金鹰卡通,http://121.238.106.59:8088/rtp/239.49.9.23:6000
-快乐垂钓,http://121.238.106.59:8088/rtp/239.49.1.225:6000
+快乐119.118.174.252:8888,http://121.238.106.59:8088/rtp/239.49.1.225:6000
 连云港公共,http://121.238.106.59:8088/rtp/239.49.1.245:6000
 连云港新闻,http://121.238.106.59:8088/rtp/239.49.1.244:6000
 沛县新闻,http://121.238.106.59:8088/rtp/239.49.9.19:6000
@@ -4902,7 +4858,7 @@ LYTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001440/ind
 金州,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001721/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 精彩电视剧,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 精彩综艺,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-快乐垂钓,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+快乐119.118.174.252:8888,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 辽宁卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 辽宁卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001296/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 宁强1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001870/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -5619,7 +5575,7 @@ CETV-4,http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
 精彩影视,http://150.138.8.143/00/SNM/CHANNEL00002012/index.m3u8
 上海东方财经,http://150.138.8.143/00/SNM/CHANNEL00002025/index.m3u8
 上海纪实人文,http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
-湖南快乐垂钓,http://150.138.8.143/00/SNM/CHANNEL00000648/index.m3u8
+湖南快乐119.118.174.252:8888,http://150.138.8.143/00/SNM/CHANNEL00000648/index.m3u8
 湖南茶频道,http://150.138.8.143/00/SNM/CHANNEL00000649/index.m3u8
 湖南纪实,http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
 湖南金鹰卡通,http://150.138.8.143/00/SNM/CHANNEL00002027/index.m3u8
@@ -5887,7 +5843,7 @@ CHC家庭影院,https://live3.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
 金鹰卡通,https://live3.rxip.sc96655.com/live/jykt_2000.m3u8
 劲爆体育,https://live3.rxip.sc96655.com/live/lqhxjcHDH265_4000.m3u8
 卡酷少儿,https://live3.rxip.sc96655.com/live/kkkt_4000.m3u8
-快乐垂钓,https://live3.rxip.sc96655.com/live/fyzqklcdHDH265_4000.m3u8
+快乐119.118.174.252:8888,https://live3.rxip.sc96655.com/live/fyzqklcdHDH265_4000.m3u8
 乐游,https://live3.rxip.sc96655.com/live/qjs-HDH265_4000.m3u8
 梨园频道,https://live3.rxip.sc96655.com/live/ly_4000.m3u8
 魅力足球,https://live3.rxip.sc96655.com/live/mlyy_4000.m3u8
@@ -6065,7 +6021,7 @@ CCTV17,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226407/1.m3u8
 湖南金鹰卡通,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8
 湖南金鹰卡通,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001098/index.m3u8
 湖南茶频道,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
-湖南快乐垂钓,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
+湖南快乐119.118.174.252:8888,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
 广东嘉佳卡通,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001227/index.m3u8
 
 
@@ -6120,6 +6076,10 @@ Bestv赛事3,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001388/in
 Bestv赛事4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001149/index.m3u8
 Bestv赛事5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u8
 Bestv赛事6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001154/index.m3u8
+
+
+
+
 
 
 
@@ -6303,7 +6263,7 @@ CCTV-4K,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.da
 海南卫视 8M,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/?id=hainanwshd8m/8000000
 欢笑剧场 8M,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/?id=hxjc8m/8000000
 劲爆体育 8M,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/?id=jbtyhd8m/8000000
-快乐垂钓 8M,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/?id=klcd8m/8000000
+快乐119.118.174.252:8888 8M,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/?id=klcd8m/8000000
 金鹰纪实 8M,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/?id=jyjs8m/8000000
 戏曲精选 8M,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/?id=xqjx8m/8000000
 上海第一财经 8M,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/?id=dycjhd8m/8000000
@@ -6347,3 +6307,70 @@ CCTV-4K,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.da
 
 
 
+
+
+
+影视轮播,#genre#
+
+星爷,http://43.128.40.42:198/虎牙直播/huya.php?id=11342412
+英叔,http://43.128.40.42:198/虎牙直播/huya.php?id=11342421
+达叔,http://43.128.40.42:198/虎牙直播/huya.php?id=11336592
+发哥,http://43.128.40.42:198/虎牙直播/huya.php?id=11342387
+成龙,http://43.128.40.42:198/虎牙直播/huya.php?id=11342386
+王晶,http://43.128.40.42:198/虎牙直播/huya.php?id=11602058
+沈腾,http://43.128.40.42:198/虎牙直播/huya.php?id=11601968
+黄渤,http://43.128.40.42:198/虎牙直播/huya.php?id=11352876
+强森,http://43.128.40.42:198/虎牙直播/huya.php?id=21059581
+漫威,http://43.128.40.42:198/虎牙直播/huya.php?id=11602034
+宇宙,http://43.128.40.42:198/虎牙直播/huya.php?id=11342428
+怪兽,http://43.128.40.42:198/虎牙直播/huya.php?id=21059577
+武侠,http://43.128.40.42:198/虎牙直播/huya.php?id=11342427
+警匪,http://43.128.40.42:198/虎牙直播/huya.php?id=11352886
+罪犯,http://43.128.40.42:198/虎牙直播/huya.php?id=11352962
+枪战,http://43.128.40.42:198/虎牙直播/huya.php?id=21059579
+赛车,http://43.128.40.42:198/虎牙直播/huya.php?id=11279247
+推荐,http://43.128.40.42:198/虎牙直播/huya.php?id=11602041
+热血,http://43.128.40.42:198/虎牙直播/huya.php?id=11352934
+盗墓,http://43.128.40.42:198/虎牙直播/huya.php?id=21059552
+贺岁,http://43.128.40.42:198/虎牙直播/huya.php?id=11601971
+玄幻,http://43.128.40.42:198/虎牙直播/huya.php?id=11342414
+谍战,http://43.128.40.42:198/虎牙直播/huya.php?id=21059585
+喜剧,http://43.128.40.42:198/虎牙直播/huya.php?id=11352877
+港片,http://43.128.40.42:198/虎牙直播/huya.php?id=11602043
+国产,http://43.128.40.42:198/虎牙直播/huya.php?id=11352973
+周星星,http://43.128.40.42:198/虎牙直播/huya.php?id=11336587
+李连杰,http://43.128.40.42:198/虎牙直播/huya.php?id=11342390
+洪金宝,http://43.128.40.42:198/虎牙直播/huya.php?id=11279251
+梁家辉,http://43.128.40.42:198/虎牙直播/huya.php?id=11342429
+许冠英,http://43.128.40.42:198/虎牙直播/huya.php?id=11601972
+刘德华,http://43.128.40.42:198/虎牙直播/huya.php?id=11342424
+斯坦森,http://43.128.40.42:198/虎牙直播/huya.php?id=21059588
+小鬼头,http://43.128.40.42:198/虎牙直播/huya.php?id=11352963
+八点档,http://43.128.40.42:198/虎牙直播/huya.php?id=880261
+贺岁片,http://43.128.40.42:198/虎牙直播/huya.php?id=11601986
+功夫片,http://43.128.40.42:198/虎牙直播/huya.php?id=11352941
+黑帮片,http://43.128.40.42:198/虎牙直播/huya.php?id=11336719
+灾难片,http://43.128.40.42:198/虎牙直播/huya.php?id=11602075
+战争片,http://43.128.40.42:198/虎牙直播/huya.php?id=21059574
+犯罪片,http://43.128.40.42:198/虎牙直播/huya.php?id=11352974
+古装片,http://43.128.40.42:198/虎牙直播/huya.php?id=11336590
+高分动作,http://43.128.40.42:198/虎牙直播/huya.php?id=11352884
+动作电影,http://43.128.40.42:198/虎牙直播/huya.php?id=11602077
+搞笑喜剧,http://43.128.40.42:198/虎牙直播/huya.php?id=11342423
+喜剧专场,http://43.128.40.42:198/虎牙直播/huya.php?id=11602044
+欢笑影院,http://43.128.40.42:198/虎牙直播/huya.php?id=11352894
+不挤影院,http://43.128.40.42:198/虎牙直播/huya.php?id=11352897
+国产悬疑,http://43.128.40.42:198/虎牙直播/huya.php?id=11342395
+快意江湖,http://43.128.40.42:198/虎牙直播/huya.php?id=11342435
+黑帮斗争,http://43.128.40.42:198/虎牙直播/huya.php?id=11342419
+古墓系列,http://43.128.40.42:198/虎牙直播/huya.php?id=11352913
+嫣然影厅,http://43.128.40.42:198/虎牙直播/huya.php?id=11601977
+女神系列,http://43.128.40.42:198/虎牙直播/huya.php?id=11336571
+经典女神,http://43.128.40.42:198/虎牙直播/huya.php?id=11352909
+许氏三杰,http://43.128.40.42:198/虎牙直播/huya.php?id=11602033
+经典港片,http://43.128.40.42:198/虎牙直播/huya.php?id=11352965
+镖行天下,http://43.128.40.42:198/虎牙直播/huya.php?id=11352969
+喜乐影院,http://43.128.40.42:198/虎牙直播/huya.php?id=21059580
+蘑菇影厅,http://43.128.40.42:198/虎牙直播/huya.php?id=11601981
+搞笑恐怖,http://43.128.40.42:198/虎牙直播/huya.php?id=11601960
+死神来了,http://43.128.40.42:198/虎牙直播/huya.php?id=11352903
