@@ -54,6 +54,7 @@ CCTV风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 凤凰卫视香港台,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
 
+
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 西藏影视,http://php.jdshipin.com:8880/xztv.php?id=ys
 
@@ -784,6 +785,9 @@ Boomerang,mitv://generationnexxxt.com:19806/65619d3500003c6967236ef726ef1633
 广东珠江台,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011655/1.m3u8?
 
 
+日本银河台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=10&bind=0&uin=159413&playseek=0
+
+
 民视,rtmp://9sv2.mine.nu:1935/sat/tv051
 台视,rtmp://9sv2.mine.nu:1935/sat/tv071
 中视,rtmp://9sv2.mine.nu:1935/sat/tv091
@@ -864,6 +868,16 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 辽宁都市,http://36.129.58.53:8008/paiptv/LNDS.m3u8
 辽宁都市,http://36.129.58.53:8008/paiptv/LNDS.m3u8
 
+
+辽宁卫视,http://42.179.40.167:9901/tsfile/live/1165_1.m3u8?key=txiptv
+辽宁北方,http://42.179.40.167:9901/tsfile/live/1018_1.m3u8?key=txiptv
+辽宁都市,http://42.179.40.167:9901/tsfile/live/1019_1.m3u8?key=txiptv
+辽宁公共,http://42.179.40.167:9901/tsfile/live/1020_1.m3u8?key=txiptv
+辽宁经济,http://42.179.40.167:9901/tsfile/live/1021_1.m3u8?key=txiptv
+辽宁生活,http://42.179.40.167:9901/tsfile/live/1022_1.m3u8?key=txiptv
+辽宁体育,http://42.179.40.167:9901/tsfile/live/1023_1.m3u8?key=txiptv
+辽宁影视剧,http://42.179.40.167:9901/tsfile/live/1024_1.m3u8?key=txiptv
+移动电视,http://42.179.40.167:9901/tsfile/live/1025_1.m3u8?key=txiptv
 
 辽宁卫视,http://119.114.37.207:9901/tsfile/live/1165_1.m3u8?key=txiptv
 辽宁北方,http://119.114.37.207:9901/tsfile/live/1018_1.m3u8?key=txiptv
@@ -1069,17 +1083,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 山东|农科,http://58.57.155.42:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 山东|少儿,http://58.57.155.42:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
 山东|教育,http://58.57.155.42:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-
-山东|卫视,http://39.85.162.151:880/CH016.m3u8
-山东|齐鲁,http://39.85.162.151:880/CH017.m3u8
-山东|文旅,http://39.85.162.151:880/CH018.m3u8
-山东|生活,http://39.85.162.151:880/CH019.m3u8
-山东|综艺,http://39.85.162.151:880/CH020.m3u8
-山东|体育,http://39.85.162.151:880/CH021.m3u8
-山东|新闻,http://39.85.162.151:880/CH022.m3u8
-山东|农科,http://39.85.162.151:880/CH023.m3u8
-山东|少儿,http://39.85.162.151:880/CH024.m3u8
-山东|教育,http://39.85.162.151:880/CH025.m3u8
 
 
 
@@ -1342,265 +1345,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 
 
-广东谷子,#genre#
-
-广东卫视HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=gdhd
-广东卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=gdws
-广东综艺4K,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=gdzy4k,
-广东珠江,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=gdzj,
-广东民生,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=gdms,
-广东新闻,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=gdxw,
-广东体育,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=gdty,
-广东体育HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=gdtyhd,
-广东经济科教,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=gdjjkj,
-广东经济科教HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=gdjjkjhd,
-广东影视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=gdys,
-广东少儿,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=gdse,
-岭南戏曲,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=lnxq,
-嘉佳卡通,http://aspnik88.110.120.119.yoonee.net/1460_4500,
-广东导视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=gdds,
-广州综合,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=gzzh,
-广州新闻,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=gzxw,
-广州法治,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=gzfz,
-广州竞赛,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=gzjs,
-广州影视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=gzys,
-增城电视台,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=zctv,
-潮州综合,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=czzh
-潮州民生, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=czms
-潮安综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cazh
-饶平综合HD, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=rpzh
-佛山综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=fszh
-佛山综合HD, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=fszhhd
-佛山公共, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=fsgg
-佛山公共HD, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=fsgghd
-佛山影视, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=fsys
-顺德台, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=fssd
-南海台, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=fsnh
-东莞新闻综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=dg1
-东莞新闻综合HD, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=dg1hd
-东莞生活资讯, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=dg2
-东莞生活资讯HD, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=dg2hd
-河源综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hy1
-河源综合HD, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hy1hd
-河源公共, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hy2
-惠州一套, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hz1
-惠州一套HD, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hz1hd
-惠州二套, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hz2
-惠州二套HDHD, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hz2hd
-博罗综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=blzh
-博罗综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=blzhb
-博罗综合HD, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=blzhhd
-惠东综合HD, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hdzh
-惠阳综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hyzh
-江门综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=jmzh
-江门综合HD, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=jmzhhd
-江门侨乡生活, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=jmqxsh
-鹤山综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hszh
-新会综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=xhzh
-揭阳综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=jyzh
-揭阳综合HD, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=jyzhhd
-揭阳生活, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=jysh
-揭阳生活HD, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=jyshhd
-揭东综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=jdzh
-茂名综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=mmzh
-茂名文化生活, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=mmwhsh
-茂名文化生活2, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=mmwhsh2
-化州综合HD, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hzzh
-信宜综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=xyzh
-梅州1, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=mz1
-梅州2, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=mz2
-梅州导视, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=mzds
-梅县综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=mxzh
-平远-1, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=py1
-五华综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=whzh
-兴宁综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=xnzh
-清远新闻综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=qyxwzh
-清远新闻综合HD, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=qyxwzhhd
-清远文旅生活, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=qywlsh
-清远文旅生活HD, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=qywlshhd
-佛冈综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=fgzh
-英德综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=ydzh
-汕头新闻综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=stxwzh
-汕头新闻综合2, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=stxwzh2
-汕头经济生活, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=stjjsh
-汕头经济生活2, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=stjjsh2
-汕头文旅体育, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=stwlty
-汕头文旅体育2, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=stwlty2
-汕尾新闻综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=swxwzh
-汕尾文化生活, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=swwhsh
-海丰综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hfzh
-韶关综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=sgzh
-韶关绿色生活, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=sglssh
-始兴综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=sgsx
-云浮综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=yfzh
-云浮文旅, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=yfwl
-珠海一套, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=zh1
-珠海一套HD, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=zh1hd
-珠海二套, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=zh2
-珠海二套HD, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=zh2hd
-斗门融媒, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=dmrm
-湛江综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=zjzh
-湛江公共, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=zjgg
-廉江综合HDHD, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=ljzh
-肇庆综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=zqzh
-肇庆生活服务, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=zqshfw
-怀集综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hjzh
-中山综合, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=zszh
-中山综合HD, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=zszhhd
-中山香山文化, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=zsxswh
-中山香山文化HD, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=zsxswhhd
-中山教育, http://aspnik88.110.120.119.yoonee.net/gudou.php?id=zsjy
-
-
-凤凰中文,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=fhzw
-翡翠台,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=fct
-明珠台,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=mzt
-翡翠台HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=fcthd
-明珠台HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=mzthd
-澳视澳门,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=asam
-星空卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=xkws
-澳亚卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=ayws
-求索生活,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=qssh
-求索纪录,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=qsjl
-求索科学,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=qskx
-求索动物,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=qsdw
-
-
-
-CCTV1综合HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv1
-CCTV1综合HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv1hd
-CCTV2财经HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv2
-CCTV2财经HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv2hd
-CCTV3综艺HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv3
-CCTV3综艺HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv3hd
-CCTV4中文国际,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv4
-CCTV4国际HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv4hd
-CCTV5体育HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv5
-CCTV5体育HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv5hd
-CCTV5+体育赛事HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv5p
-CCTV5+体育赛事HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv5phd
-CCTV6电影HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv6
-CCTV6电影HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv6hd
-CCTV7国防军事HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv7
-CCTV7国防军事HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv7hd
-CCTV8电视剧HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv8
-CCTV8电视剧HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv8hd
-CCTV9纪录HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv9
-CCTV9纪录HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv9hd
-CCTV10科教HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv10
-CCTV10科教HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv10hd
-CCTV11戏曲,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv11
-CCTV11戏曲HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv11hd
-CCTV12社会HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv12
-CCTV12社会HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv12hd
-CCTV13新闻,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv13
-CCTV13新闻HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv13hd
-CCTV14少儿HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv14
-CCTV14少儿HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv14hd
-CCTV15音乐,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv15
-CCTV15音乐HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv15hd
-CCTV16奥林匹克,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv16
-CCTV16奥林匹克4K,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv164k
-CCTV17农村农业,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv17
-CCTV17农村农业HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv17hd
-CCTV4K超高清,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cctv4k
-怀旧剧场,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hjjc
-风云剧场,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=fyjc
-风云音乐,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=fyyy
-风云足球,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=fyzq
-CGTN,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cgtn
-书画,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=sh
-中国天气,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=zgtq
-CETV1,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cetv1
-CETV1HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cetv1hd
-CETV4,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cetv4
-CHC高清电影,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=chcgq
-CHC家庭影院,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=chcjt
-CHC动作电影,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=chcdz
-  
-
-北京卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=bjws
-北京卫视HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=bjhd
-东方卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=dfws
-东方卫视HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=dfhd
-天津卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=tjws
-天津卫视HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=tjhd
-重庆卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cqws
-重庆卫视HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=cqhd
-黑龙江卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hljws
-黑龙江卫视HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hljhd
-吉林卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=jlws
-吉林卫视HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=jlhd
-延边卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=ybws
-辽宁卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=lnws
-辽宁卫视HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=lnhd
-内蒙古卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=nmws
-河北卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hbws
-山西卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=sxiws
-山东卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=sdws
-山东卫视HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=sdhd
-安徽卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=ahws
-安徽卫视HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=ahhd
-河南卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hnws
-湖北卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hubws
-湖北卫视HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hubhd
-湖南卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hunws
-湖南卫视HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hunhd
-江西卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=jxws
-江西卫视HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=jxhd
-江苏卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=jsws
-江苏卫视HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=jshd
-浙江卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=zjws
-浙江卫视HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=zjhd
-宁夏卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=nxws
-甘肃卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=gsws
-青海卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=qhws
-陕西卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=sxws
-河北卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hbws
-东南卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=dnws
-东南卫视HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=dnhd
-深圳卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=szws
-深圳卫视HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=szhd
-大湾区卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=dwqws
-广西卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=gxws
-广西卫视HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=gxhd
-云南卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=ynws
-贵州卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=gzws
-贵州卫视HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=gzhd
-四川卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=scws
-四川卫视HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=schd
-新疆卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=xjws
-兵团卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=btws
-西藏卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=xzws
-海南卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hinws
-海南卫视HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hinhd
-三沙卫视,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=ssws
-
-卡酷少儿,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=kkse
-环球奇观,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hqqg
-劲爆体育,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=jbty
-劲爆体育HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=jbtyhd
-乐游,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=ly
-乐游HD,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=lyhd
-东方财经,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=dfcj
-法治天地,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=fztd
-都市剧场,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=dsjc
-动漫秀场,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=dmxc
-魅力足球,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=mlzq
-金色学堂,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=jsxt
-哈哈炫动,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=hhxd
-新视觉,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=xsj
-新动漫,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=xdm
-文物宝库,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=wwbk
-武术世界,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=wssj
-梨园频道,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=lypd
-金鹰卡通,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=jykt
-快乐垂钓,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=klcd
-先锋乒羽,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=xfpy
-优漫卡通,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=ymkt
-
-
-
 
 
 
@@ -1608,96 +1352,97 @@ CHC动作电影,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=chcdz
 广东电信,#genre#
 
 广东卫视,http://113.102.33.222:4022/rtp/239.77.1.19:5146
-广东卫视,http://l113.102.33.222:4022/rtp/239.77.1.152:5146
-广东卫视,http://l113.102.33.222:4022/rtp/239.77.0.84:5146
-广东卫视,http://l113.102.33.222:4022/rtp/239.77.0.166:5146
-广东珠江,http://l113.102.33.222:4022/rtp/239.77.0.1:5146
-广东珠江,http://l113.102.33.222:4022/rtp/239.77.0.114:5146
-广东新闻,http://l113.102.33.222:4022/rtp/239.77.0.173:5146
-广东民生,http://l113.102.33.222:4022/rtp/239.77.0.225:5146
-广东体育,http://l113.102.33.222:4022/rtp/239.77.0.112:5146
-广东体育,http://l113.102.33.222:4022/rtp/239.77.0.168:5146
-广东经济科教,http://l113.102.33.222:4022/rtp/239.77.0.85:5146
-广东经济科教,http://l113.102.33.222:4022/rtp/239.77.0.167:5146
-广东大湾区卫视,http://l113.102.33.222:4022/rtp/239.77.0.215:5146
-广东影视,http://l113.102.33.222:4022/rtp/239.77.0.217:5146
-广东少儿,http://l113.102.33.222:4022/rtp/239.77.0.250:5146
-广东嘉佳卡通,http://l113.102.33.222:4022/rtp/239.77.0.179:5146
-广东岭南戏曲,http://l113.102.33.222:4022/rtp/239.77.0.16:5146
-广东房产,http://l113.102.33.222:4022/rtp/239.77.0.14:5146
-广东现代教育,http://l113.102.33.222:4022/rtp/239.77.0.18:5146
-广东移动,http://l113.102.33.222:4022/rtp/239.77.0.20:5146
-广州综合,http://l113.102.33.222:4022/rtp/239.253.43.71:5146
-广州新闻,http://l113.102.33.222:4022/rtp/239.253.43.72:5146
-广州影视,http://l113.102.33.222:4022/rtp/239.253.43.73:5146
-广州法治,http://l113.102.33.222:4022/rtp/239.253.43.74:5146
-南国都市4K,http://l113.102.33.222:4022/rtp/239.253.43.99:5146
-深圳卫视,http://l113.102.33.222:4022/rtp/239.77.1.3:5146
-深圳卫视,http://l113.102.33.222:4022/rtp/239.77.1.148:5146
-深圳卫视,http://l113.102.33.222:4022/rtp/239.77.0.92:5146
-深圳卫视,http://l113.102.33.222:4022/rtp/239.77.0.130:5146
-深圳都市,http://l113.102.33.222:4022/rtp/239.77.1.176:5146
-深圳都市,http://l113.102.33.222:4022/rtp/239.77.1.124:5146
-深圳电视剧,http://l113.102.33.222:4022/rtp/239.77.1.177:5146
-深圳电视剧,http://l113.102.33.222:4022/rtp/239.77.1.125:5146
-深圳财经,http://l113.102.33.222:4022/rtp/239.77.1.242:5146
-深圳娱乐,http://l113.102.33.222:4022/rtp/239.77.1.243:5146
-深圳体育,http://l113.102.33.222:4022/rtp/239.77.1.128:5146
-深圳体育,http://l113.102.33.222:4022/rtp/239.77.1.140:5146
-深圳少儿,http://l113.102.33.222:4022/rtp/239.77.1.244:5146
-深圳公共,http://l113.102.33.222:4022/rtp/239.77.1.178:5146
-深圳公共,http://l113.102.33.222:4022/rtp/239.77.1.126:5146
-深圳宝安,http://l113.102.33.222:4022/rtp/239.77.1.67:5146
-深圳龙岗,http://l113.102.33.222:4022/rtp/239.77.1.223:5146
-深圳东部,http://l113.102.33.222:4022/rtp/239.77.1.224:5146
-深圳众创,http://l113.102.33.222:4022/rtp/239.77.1.247:5146
-深圳移动电视,http://l113.102.33.222:4022/rtp/239.77.1.175:5146
+广东卫视,http://113.102.33.222:4022/rtp/239.77.1.152:5146
+广东卫视,http://113.102.33.222:4022/rtp/239.77.0.84:5146
+广东卫视,http://113.102.33.222:4022/rtp/239.77.0.166:5146
+广东珠江,http://113.102.33.222:4022/rtp/239.77.0.1:5146
+广东珠江,http://113.102.33.222:4022/rtp/239.77.0.114:5146
+广东新闻,http://113.102.33.222:4022/rtp/239.77.0.173:5146
+广东民生,http://113.102.33.222:4022/rtp/239.77.0.225:5146
+广东体育,http://113.102.33.222:4022/rtp/239.77.0.112:5146
+广东体育,http://113.102.33.222:4022/rtp/239.77.0.168:5146
+广东经济科教,http://113.102.33.222:4022/rtp/239.77.0.85:5146
+广东经济科教,http://113.102.33.222:4022/rtp/239.77.0.167:5146
+广东大湾区卫视,http://113.102.33.222:4022/rtp/239.77.0.215:5146
+广东影视,http://113.102.33.222:4022/rtp/239.77.0.217:5146
+广东少儿,http://113.102.33.222:4022/rtp/239.77.0.250:5146
+广东嘉佳卡通,http://113.102.33.222:4022/rtp/239.77.0.179:5146
+广东岭南戏曲,http://113.102.33.222:4022/rtp/239.77.0.16:5146
+广东房产,http://113.102.33.222:4022/rtp/239.77.0.14:5146
+广东现代教育,http://113.102.33.222:4022/rtp/239.77.0.18:5146
+广东移动,http://113.102.33.222:4022/rtp/239.77.0.20:5146
+广州综合,http://113.102.33.222:4022/rtp/239.253.43.71:5146
+广州新闻,http://113.102.33.222:4022/rtp/239.253.43.72:5146
+广州影视,http://113.102.33.222:4022/rtp/239.253.43.73:5146
+广州法治,http://113.102.33.222:4022/rtp/239.253.43.74:5146
+南国都市4K,http://113.102.33.222:4022/rtp/239.253.43.99:5146
+深圳卫视,http://113.102.33.222:4022/rtp/239.77.1.3:5146
+深圳卫视,http://113.102.33.222:4022/rtp/239.77.1.148:5146
+深圳卫视,http://113.102.33.222:4022/rtp/239.77.0.92:5146
+深圳卫视,http://113.102.33.222:4022/rtp/239.77.0.130:5146
+深圳都市,http://113.102.33.222:4022/rtp/239.77.1.176:5146
+深圳都市,http://113.102.33.222:4022/rtp/239.77.1.124:5146
+深圳电视剧,http://113.102.33.222:4022/rtp/239.77.1.177:5146
+深圳电视剧,http://113.102.33.222:4022/rtp/239.77.1.125:5146
+深圳财经,http://113.102.33.222:4022/rtp/239.77.1.242:5146
+深圳娱乐,http://113.102.33.222:4022/rtp/239.77.1.243:5146
+深圳体育,http://113.102.33.222:4022/rtp/239.77.1.128:5146
+深圳体育,http://113.102.33.222:4022/rtp/239.77.1.140:5146
+深圳少儿,http://113.102.33.222:4022/rtp/239.77.1.244:5146
+深圳公共,http://113.102.33.222:4022/rtp/239.77.1.178:5146
+深圳公共,http://113.102.33.222:4022/rtp/239.77.1.126:5146
+深圳宝安,http://113.102.33.222:4022/rtp/239.77.1.67:5146
+深圳龙岗,http://113.102.33.222:4022/rtp/239.77.1.223:5146
+深圳东部,http://113.102.33.222:4022/rtp/239.77.1.224:5146
+深圳众创,http://113.102.33.222:4022/rtp/239.77.1.247:5146
+深圳移动电视,http://113.102.33.222:4022/rtp/239.77.1.175:5146
 
-
-韶关新闻综合,http://l113.102.33.222:4022/rtp/239.77.0.117:5146
-韶关绿色生活,http://l113.102.33.222:4022/rtp/239.77.0.119:5146
-湛江新闻综合,http://l113.102.33.222:4022/rtp/239.77.0.141:5146
-湛江公共,http://l113.102.33.222:4022/rtp/239.77.0.140:5146
-揭阳综合,http://l113.102.33.222:4022/rtp/239.77.0.229:5146
-揭阳生活,http://l113.102.33.222:4022/rtp/239.77.0.251:5146
-汕尾新闻综合,http://l113.102.33.222:4022/rtp/239.77.0.25:5146
-汕尾文化生活,http://l113.102.33.222:4022/rtp/239.77.0.187:5146
-江门综合,http://l113.102.33.222:4022/rtp/239.77.0.201:5146
-江门侨乡生活,http://l113.102.33.222:4022/rtp/239.77.0.202:5146
-江门教育,http://l113.102.33.222:4022/rtp/239.77.0.203:5146
-惠州1,http://l113.102.33.222:4022/rtp/239.77.1.232:5146
-惠州2,http://l113.102.33.222:4022/rtp/239.77.1.233:5146
-珠海1,http://l113.102.33.222:4022/rtp/239.77.0.155:5146
-珠海2,http://l113.102.33.222:4022/rtp/239.77.0.154:5146
-肇庆综合,http://l113.102.33.222:4022/rtp/239.253.43.1:5146
-肇庆生活,http://l113.102.33.222:4022/rtp/239.253.43.2:5146
-河源综合,http://l113.102.33.222:4022/rtp/239.253.43.213:5146
-河源公共,http://l113.102.33.222:4022/rtp/239.253.43.214:5146
-清远新闻综合,http://l113.102.33.222:4022/rtp/239.253.43.33:5146
-清远文旅生活,http://l113.102.33.222:4022/rtp/239.253.43.34:5146
-云浮综合,http://l113.102.33.222:4022/rtp/239.77.0.253:5146
-云浮文旅,http://l113.102.33.222:4022/rtp/239.77.0.254:5146
-茂名综合,http://l113.102.33.222:4022/rtp/239.77.0.206:5146
-茂名公共,http://l113.102.33.222:4022/rtp/239.77.0.207:5146
-汕头综合,http://l113.102.33.222:4022/rtp/239.77.1.130:5146
-汕头综合,http://l113.102.33.222:4022/rtp/239.253.43.45:5146
-汕头经济生活,http://l113.102.33.222:4022/rtp/239.77.1.131:5146
-汕头经济生活,http://l113.102.33.222:4022/rtp/239.253.43.46:5146
-汕头文旅体育,http://l113.102.33.222:4022/rtp/239.77.1.132:5146
-汕头文旅体育,http://l113.102.33.222:4022/rtp/239.253.43.47:5146
-潮州综合,http://l113.102.33.222:4022/rtp/239.253.43.70:5146
-潮州民生,http://l113.102.33.222:4022/rtp/239.253.43.75:5146  
-佛山公共,http://l113.102.33.222:4022/rtp/239.253.43.53:5146
-佛山南海,http://l113.102.33.222:4022/rtp/239.253.43.54:5146
-佛山顺德,http://l113.102.33.222:4022/rtp/239.253.43.55:5146
-佛山影视,http://l113.102.33.222:4022/rtp/239.253.43.56:5146
-佛山综合,http://l113.102.33.222:4022/rtp/239.253.43.57:5146
-东莞新闻综合,http://l113.102.33.222:4022/rtp/239.253.43.104:5146
-东莞生活资讯,http://l113.102.33.222:4022/rtp/239.253.43.105:5146
-中山综合,http://l113.102.33.222:4022/rtp/239.253.43.62:5146
-香山文化,http://l113.102.33.222:4022/rtp/239.253.43.63:5146
-中山教育,http://l113.102.33.222:4022/rtp/239.253.43.64:5146
-徐闻综合,http://l113.102.33.222:4022/rtp/239.253.43.112:5146
+潮州综合,http://113.102.33.222:4022/udp/239.253.43.70:5146
+潮州民生,http://113.102.33.222:4022/udp/239.253.43.75:5146 
+韶关新闻综合,http://113.102.33.222:4022/rtp/239.77.0.117:5146
+韶关绿色生活,http://113.102.33.222:4022/rtp/239.77.0.119:5146
+湛江新闻综合,http://113.102.33.222:4022/rtp/239.77.0.141:5146
+湛江公共,http://113.102.33.222:4022/rtp/239.77.0.140:5146
+揭阳综合,http://113.102.33.222:4022/rtp/239.77.0.229:5146
+揭阳生活,http://113.102.33.222:4022/rtp/239.77.0.251:5146
+汕尾新闻综合,http://113.102.33.222:4022/rtp/239.77.0.25:5146
+汕尾文化生活,http://113.102.33.222:4022/rtp/239.77.0.187:5146
+江门综合,http://113.102.33.222:4022/rtp/239.77.0.201:5146
+江门侨乡生活,http://113.102.33.222:4022/rtp/239.77.0.202:5146
+江门教育,http://113.102.33.222:4022/rtp/239.77.0.203:5146
+惠州1,http://113.102.33.222:4022/rtp/239.77.1.232:5146
+惠州2,http://113.102.33.222:4022/rtp/239.77.1.233:5146
+珠海1,http://113.102.33.222:4022/rtp/239.77.0.155:5146
+珠海2,http://113.102.33.222:4022/rtp/239.77.0.154:5146
+肇庆综合,http://113.102.33.222:4022/rtp/239.253.43.1:5146
+肇庆生活,http://113.102.33.222:4022/rtp/239.253.43.2:5146
+河源综合,http://113.102.33.222:4022/rtp/239.253.43.213:5146
+河源公共,http://113.102.33.222:4022/rtp/239.253.43.214:5146
+清远新闻综合,http://113.102.33.222:4022/rtp/239.253.43.33:5146
+清远文旅生活,http://113.102.33.222:4022/rtp/239.253.43.34:5146
+云浮综合,http://113.102.33.222:4022/rtp/239.77.0.253:5146
+云浮文旅,http://113.102.33.222:4022/rtp/239.77.0.254:5146
+茂名综合,http://113.102.33.222:4022/rtp/239.77.0.206:5146
+茂名公共,http://113.102.33.222:4022/rtp/239.77.0.207:5146
+汕头综合,http://113.102.33.222:4022/rtp/239.77.1.130:5146
+汕头综合,http://113.102.33.222:4022/rtp/239.253.43.45:5146
+汕头经济生活,http://113.102.33.222:4022/rtp/239.77.1.131:5146
+汕头经济生活,http://113.102.33.222:4022/rtp/239.253.43.46:5146
+汕头文旅体育,http://113.102.33.222:4022/rtp/239.77.1.132:5146
+汕头文旅体育,http://113.102.33.222:4022/rtp/239.253.43.47:5146
+潮州综合,http://113.102.33.222:4022/rtp/239.253.43.70:5146
+潮州民生,http://113.102.33.222:4022/rtp/239.253.43.75:5146  
+佛山公共,http://113.102.33.222:4022/rtp/239.253.43.53:5146
+佛山南海,http://l/rtp/239.253.43.54:5146
+佛山顺德,http://113.102.33.222:4022/rtp/239.253.43.55:5146
+佛山影视,http://113.102.33.222:4022/rtp/239.253.43.56:5146
+佛山综合,http://113.102.33.222:4022/rtp/239.253.43.57:5146
+东莞新闻综合,http://113.102.33.222:4022/rtp/239.253.43.104:5146
+东莞生活资讯,http://113.102.33.222:4022/rtp/239.253.43.105:5146
+中山综合,http://113.102.33.222:4022/rtp/239.253.43.62:5146
+香山文化,http://113.102.33.222:4022/rtp/239.253.43.63:5146
+中山教育,http://113.102.33.222:4022/rtp/239.253.43.64:5146
+徐闻综合,http://113.102.33.222:4022/rtp/239.253.43.112:5146
 
 
 
@@ -1755,6 +1500,8 @@ CHC动作电影,http://aspnik88.110.120.119.yoonee.net/gudou.php?id=chcdz
 深圳移动电视,http://58.63.64.26:8888/rtp/239.77.1.175:5146
 
 
+潮州综合,http://58.63.64.26:8888/rtp/239.253.43.70:5146
+潮州民生,http://58.63.64.26:8888/rtp/239.253.43.75:5146 
 韶关新闻综合,http://58.63.64.26:8888/rtp/239.77.0.117:5146
 韶关绿色生活,http://58.63.64.26:8888/rtp/239.77.0.119:5146
 湛江新闻综合,http://58.63.64.26:8888/rtp/239.77.0.141:5146
