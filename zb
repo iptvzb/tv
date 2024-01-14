@@ -3,8 +3,13 @@
 🇨🇳限时频道,#genre#
 
 长影频道,http://122.140.40.186:9901/tsfile/live/1010_1.m3u8?key=txiptv
+
 凤凰中文台,http://110.81.206.138:50080/tsfile/live/23020_1.m3u8?key=txiptv
 凤凰资讯台,http://110.81.206.138:50080/tsfile/live/23019_1.m3u8?key=txiptv
+
+凤凰中文台,http://222.215.98.89:60033/tsfile/live/56620_1.m3u8?key=txiptv
+凤凰资讯台,http://222.215.98.89:60033/tsfile/live/56621_1.m3u8?key=txiptv
+
 
 
 辽宁卫视,http://113.236.24.52:9901/tsfile/live/1165_1.m3u8?key=txiptv
@@ -17,6 +22,17 @@
 辽宁影视剧,http://113.236.24.52:9901/tsfile/live/1024_1.m3u8?key=txiptv
 辽宁移动电视,http://113.236.24.52:9901/tsfile/live/1025_1.m3u8?key=txiptv
 辽宁新动漫,http://113.236.24.52:9901/tsfile/live/1086_1.m3u8?key=txiptv
+
+辽宁卫视,http://42.179.43.41:9901/tsfile/live/1165_1.m3u8?key=txiptv
+辽宁北方,http://42.179.43.41:9901/tsfile/live/1018_1.m3u8?key=txiptv
+辽宁都市,http://42.179.43.41:9901/tsfile/live/1019_1.m3u8?key=txiptv
+辽宁公共,http://42.179.43.41:9901/tsfile/live/1020_1.m3u8?key=txiptv
+辽宁经济,http://42.179.43.41:9901/tsfile/live/1021_1.m3u8?key=txiptv
+辽宁生活,http://42.179.43.41:9901/tsfile/live/1022_1.m3u8?key=txiptv
+辽宁体育,http://42.179.43.41:9901/tsfile/live/1023_1.m3u8?key=txiptv
+辽宁影视剧,http://42.179.43.41:9901/tsfile/live/1024_1.m3u8?key=txiptv
+辽宁移动电视,http://42.179.43.41:9901/tsfile/live/1025_1.m3u8?key=txiptv
+
 
 
 广东卫视 高清,http://222.218.158.207:8181/tsfile/live/0125_1.m3u8?key=txiptv
@@ -59,6 +75,19 @@ GHC 高清电影 高清,http://222.218.158.207:8181/tsfile/live/1020_1.m3u8?key=
 南宁综合 高清,http://113.15.187.234:8181/tsfile/live/0143_1.m3u8?key=txiptv
 
 
+上海东方卫视,http://116.234.54.1:7777/tsfile/live/0107_1.m3u8?key=txiptv
+上海新闻综合,http://116.234.54.1:7777/tsfile/live/1025_1.m3u8?key=txiptv
+上海都市频道,http://116.234.54.1:7777/tsfile/live/1026_1.m3u8?key=txiptv
+上海纪实人文,http://116.234.54.1:7777/tsfile/live/1027_1.m3u8?key=txiptv
+上海东方影视,http://116.234.54.1:7777/tsfile/live/1028_1.m3u8?key=txiptv
+上海第一财经,http://116.234.54.1:7777/tsfile/live/1029_1.m3u8?key=txiptv
+上海五星体育,http://116.234.54.1:7777/tsfile/live/1030_1.m3u8?key=txiptv
+上海上海东方财经,http://116.234.54.1:7777/tsfile/live/1031_1.m3u8?key=txiptv
+上海ICS频道,http://116.234.54.1:7777/tsfile/live/1032_1.m3u8?key=txiptv
+上海教育台,http://116.234.54.1:7777/tsfile/live/1033_1.m3u8?key=txiptv
+上海七彩戏剧,http://116.234.54.1:7777/tsfile/live/1034_1.m3u8?key=txiptv
+上海法治天地,http://116.234.54.1:7777/tsfile/live/1035_1.m3u8?key=txiptv
+上海金色学堂,http://116.234.54.1:7777/tsfile/live/1036_1.m3u8?key=txiptv
 
 
 四川卫视,http://183.223.157.33:9901/tsfile/live/0123_1.m3u8?key=txiptv
@@ -66,8 +95,21 @@ GHC 高清电影 高清,http://222.218.158.207:8181/tsfile/live/1020_1.m3u8?key=
 四川文旅,http://183.223.157.33:9901/tsfile/live/1001_1.m3u8?key=txiptv
 四川新闻,http://183.223.157.33:9901/tsfile/live/1003_1.m3u8?key=txiptv
 四川科教,http://183.223.157.33:9901/tsfile/live/1005_1.m3u8?key=txiptv
-峨眉电影,http://183.223.157.33:9901/tsfile/live/1006_1.m3u8?key=txiptv
+四川峨眉电影,http://183.223.157.33:9901/tsfile/live/1006_1.m3u8?key=txiptv
 
+四川卫视,http://222.215.98.89:60033/tsfile/live/56591_1.m3u8?key=txiptv
+康巴卫视,http://222.215.98.89:60033/tsfile/live/56582_1.m3u8?key=txiptv
+四川经济,http://222.215.98.89:60033/tsfile/live/56583_1.m3u8?key=txiptv
+四川文旅,http://222.215.98.89:60033/tsfile/live/56584_1.m3u8?key=txiptv
+四川新闻,http://222.215.98.89:60033/tsfile/live/56585_1.m3u8?key=txiptv
+四川影视,http://222.215.98.89:60033/tsfile/live/56586_1.m3u8?key=txiptv
+四川科教,http://222.215.98.89:60033/tsfile/live/56587_1.m3u8?key=txiptv
+四川乡村,http://222.215.98.89:60033/tsfile/live/56588_1.m3u8?key=txiptv
+四川妇女儿童,http://222.215.98.89:60033/tsfile/live/56589_1.m3u8?key=txiptv
+四川峨眉电影,http://222.215.98.89:60033/tsfile/live/56590_1.m3u8?key=txiptv
+四川中录动漫4K,http://222.215.98.89:60033/tsfile/live/56617_1.m3u8?key=txiptv
+四川达州新闻综合,http://222.215.98.89:60033/tsfile/live/56618_1.m3u8?key=txiptv
+四川达州文化生活,http://222.215.98.89:60033/tsfile/live/56619_1.m3u8?key=txiptv
 
 
 山东卫视,http://60.212.2.122:8154/tsfile/live/0131_1.m3u8?key=txiptv
@@ -96,6 +138,31 @@ GHC 高清电影 高清,http://222.218.158.207:8181/tsfile/live/1020_1.m3u8?key=
 青岛5,http://123.235.8.37:9901/tsfile/live/1015_1.m3u8
 青岛6,http://123.235.8.37:9901/tsfile/live/1016_1.m3u8
 
+青岛1,http://szktv.7766.org:9921/hls/49/index.m3u8
+青岛2,http://szktv.7766.org:9921/hls/50/index.m3u8
+青岛3,http://szktv.7766.org:9921/hls/51/index.m3u8
+青岛4,http://szktv.7766.org:9921/hls/52/index.m3u8
+青岛5,http://szktv.7766.org:9921/hls/53/index.m3u8
+青岛6,http://szktv.7766.org:9921/hls/54/index.m3u8
+
+
+河南卫视,http://171.11.107.113:4431/hls/20/index.m3u8
+河南都市,http://171.11.107.113:4431/hls/21/index.m3u8
+河南民生,http://171.11.107.113:4431/hls/22/index.m3u8
+河南法治,http://171.11.107.113:4431/hls/23/index.m3u8
+河南电视剧,http://171.11.107.113:4431/hls/24/index.m3u8
+河南新闻,http://171.11.107.113:4431/hls/25/index.m3u8
+河南公共,http://171.11.107.113:4431/hls/26/index.m3u8
+河南乡村,http://171.11.107.113:4431/hls/27/index.m3u8
+河南国际,http://171.11.107.113:4431/hls/28/index.m3u8
+河南晴彩中原,http://171.11.107.113:4431/hls/29/index.m3u8
+河南移动戏曲,http://171.11.107.113:4431/hls/30/index.m3u8
+河南收藏天下,http://171.11.107.113:4431/hls/31/index.m3u8
+河南戏曲,http://171.11.107.113:4431/hls/32/index.m3u8
+河南中华功夫,http://171.11.107.113:4431/hls/33/index.m3u8
+河南百姓调解 ,http://171.11.107.113:4431/hls/35/index.m3u8
+
+
 
 河北卫视高清,http://121.19.134.21:808/tsfile/live/0019_1.m3u8?key=txiptv
 河北经济生活高清,http://121.19.134.21:808/tsfile/live/1000_1.m3u8?key=txiptv
@@ -109,7 +176,30 @@ GHC 高清电影 高清,http://222.218.158.207:8181/tsfile/live/1020_1.m3u8?key=
 保定公共频道,http://121.19.134.21:808/tsfile/live/1008_1.m3u8?key=txiptv
 保定生活健康,http://121.19.134.21:808/tsfile/live/1009_1.m3u8?key=txiptv
 
+河北卫视高清,http://101.18.31.176:808/hls/25/index.m3u8
+河北经济生活高清,http://101.18.31.176:808/hls/24/index.m3u8
+河北都市高清,http://101.18.31.176:808/hls/18/index.m3u8
+河北影视剧高清,http://101.18.31.176:808/hls/19/index.m3u8
+河北少儿科教高清,http://101.18.31.176:808/hls/20/index.m3u8
+河北公共高清,http://101.18.31.176:808/hls/21/index.m3u8
+河北农民高清,http://101.18.31.176:808/hls/22/index.m3u8
+河北杂技,http://101.18.31.176:808/hls/23/index.m3u8
+保定新闻综合,http://101.18.31.176:808/hls/26/index.m3u8
+保定公共频道,http://101.18.31.176:808/hls/27/index.m3u8
+保定生活健康,http://101.18.31.176:808/hls/28/index.m3u8
 
+
+
+
+
+湖北卫视,http://58.51.109.158:9901/tsfile/live/23275_1.m3u8?key=txiptv
+湖北垄上,http://58.51.109.158:9901/tsfile/live/23274_1.m3u8?key=txiptv
+湖北公共新闻,http://58.51.109.158:9901/tsfile/live/23276_1.m3u8?key=txiptv
+湖北经视,http://58.51.109.158:9901/tsfile/live/23277_1.m3u8?key=txiptv
+湖北综合,http://58.51.109.158:9901/tsfile/live/23278_1.m3u8?key=txiptv
+湖北影视,http://58.51.109.158:9901/tsfile/live/23279_1.m3u8?key=txiptv
+湖北生活,http://58.51.109.158:9901/tsfile/live/23280_1.m3u8?key=txiptv
+湖北教育,http://58.51.109.158:9901/tsfile/live/23281_1.m3u8?key=txiptv
 
 湖南卫视,http://183.215.94.65:9998/tsfile/live/1075_1.m3u8?key=txiptv
 湖南经视,http://183.215.94.65:9998/tsfile/live/1048_1.m3u8?key=txiptv
@@ -123,6 +213,17 @@ GHC 高清电影 高清,http://222.218.158.207:8181/tsfile/live/1020_1.m3u8?key=
 湖南导视,http://183.215.94.65:9998/tsfile/live/1017_1.m3u8?key=txiptv
 
 
+
+
+福建东南卫视,http://36.249.150.135:9901/tsfile/live/0137_1.m3u8?key=txiptv
+福建海峡卫视,http://36.249.150.135:9901/tsfile/live/0150_1.m3u8?key=txiptv
+福建新闻,http://36.249.150.135:9901/tsfile/live/1005_1.m3u8?key=txiptv
+福建公共,http://36.249.150.135:9901/tsfile/live/1006_1.m3u8?key=txiptv
+福建体育,http://36.249.150.135:9901/tsfile/live/1007_1.m3u8?key=txiptv
+福建综合,http://36.249.150.135:9901/tsfile/live/1008_1.m3u8?key=txiptv
+福建电视剧,http://36.249.150.135:9901/tsfile/live/1009_1.m3u8?key=txiptv
+福建少儿,http://36.249.150.135:9901/tsfile/live/1010_1.m3u8?key=txiptv
+福建经济,http://36.249.150.135:9901/tsfile/live/1011_1.m3u8?key=txiptv
 
 
 🇨🇳综合频道,#genre#
@@ -3334,6 +3435,13 @@ New TV频道,#genre#
 广东珠江台,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011655/1.m3u8?
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 西藏影视,http://php.jdshipin.com:8880/xztv.php?id=ys
+西藏卫视,http://220.182.45.198:20088/tsfile/live/0111_1.m3u8?key=txiptv
+西藏影视,http://220.182.45.198:20088/tsfile/live/1003_1.m3u8?key=txiptv
+拉萨文化旅游,http://220.182.45.198:20088/tsfile/live/1001_1.m3u8?key=txiptv
+拉萨藏语综合,http://220.182.45.198:20088/tsfile/live/1002_1.m3u8?key=txiptv
+拉萨综合,http://220.182.45.198:20088/tsfile/live/1004_1.m3u8?key=txiptv
+
+
 日本银河台,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=10&bind=0&uin=159413&playseek=0
 红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 欧洲华文1台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
