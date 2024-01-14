@@ -1,8 +1,12 @@
+
+
 🇨🇳限时频道,#genre#
 
 长影频道,http://122.140.40.186:9901/tsfile/live/1010_1.m3u8?key=txiptv
-凤凰资讯台,http://110.81.206.138:50080/tsfile/live/23019_1.m3u8?key=txiptv
 凤凰中文台,http://110.81.206.138:50080/tsfile/live/23020_1.m3u8?key=txiptv
+凤凰资讯台,http://110.81.206.138:50080/tsfile/live/23019_1.m3u8?key=txiptv
+
+
 辽宁卫视,http://113.236.24.52:9901/tsfile/live/1165_1.m3u8?key=txiptv
 辽宁北方,http://113.236.24.52:9901/tsfile/live/1018_1.m3u8?key=txiptv
 辽宁都市,http://113.236.24.52:9901/tsfile/live/1019_1.m3u8?key=txiptv
@@ -13,6 +17,7 @@
 辽宁影视剧,http://113.236.24.52:9901/tsfile/live/1024_1.m3u8?key=txiptv
 辽宁移动电视,http://113.236.24.52:9901/tsfile/live/1025_1.m3u8?key=txiptv
 辽宁新动漫,http://113.236.24.52:9901/tsfile/live/1086_1.m3u8?key=txiptv
+
 
 广东卫视 高清,http://222.218.158.207:8181/tsfile/live/0125_1.m3u8?key=txiptv
 广东珠江 高清,http://222.218.158.207:8181/tsfile/live/1000_1.m3u8?key=txiptv
@@ -35,6 +40,26 @@ GHC 家庭影院 高清,http://222.218.158.207:8181/tsfile/live/1018_1.m3u8?key=
 GHC 动作电影 高清,http://222.218.158.207:8181/tsfile/live/1019_1.m3u8?key=txiptv
 GHC 高清电影 高清,http://222.218.158.207:8181/tsfile/live/1020_1.m3u8?key=txiptv
 
+广东卫视 高清,http://113.15.187.234:8181/tsfile/live/0125_1.m3u8?key=txiptv
+广东珠江 高清,http://113.15.187.234:8181/tsfile/live/1000_1.m3u8?key=txiptv
+广东新闻 高清,http://113.15.187.234:8181/tsfile/live/1007_1.m3u8?key=txiptv 
+广东体育 高清,http://113.15.187.234:8181/tsfile/live/1001_1.m3u8?key=txiptv
+广东民生 高清,http://113.15.187.234:8181/tsfile/live/1002_1.m3u8?key=txiptv
+广东科教 高清,http://113.15.187.234:8181/tsfile/live/1003_1.m3u8?key=txiptv
+广东影视 高清,http://113.15.187.234:8181/tsfile/live/1004_1.m3u8?key=txiptv
+广东少儿 高清,http://113.15.187.234:8181/tsfile/live/1005_1.m3u8?key=txiptv
+广东岭南戏剧 高清,http://113.15.187.234:8181/tsfile/live/1006_1.m3u8?key=txiptv
+广西卫视 高清,http://113.15.187.234:8181/tsfile/live/0113_1.m3u8?key=txiptv
+广西影视 高清,http://113.15.187.234:8181/tsfile/live/1009_1.m3u8?key=txiptv
+广西综艺 高清,http://113.15.187.234:8181/tsfile/live/1010_1.m3u8?key=txiptv
+广西都市 高清,http://113.15.187.234:8181/tsfile/live/1011_1.m3u8?key=txiptv
+广西新闻 高清,http://113.15.187.234:8181/tsfile/live/1012_1.m3u8?key=txiptv
+南宁影视 高清,http://113.15.187.234:8181/tsfile/live/1013_1.m3u8?key=txiptv
+南宁公共 高清,http://113.15.187.234:8181/tsfile/live/1014_1.m3u8?key=txiptv
+南宁综合 高清,http://113.15.187.234:8181/tsfile/live/0143_1.m3u8?key=txiptv
+
+
+
 
 四川卫视,http://183.223.157.33:9901/tsfile/live/0123_1.m3u8?key=txiptv
 四川经济,http://183.223.157.33:9901/tsfile/live/1000_1.m3u8?key=txiptv
@@ -42,6 +67,60 @@ GHC 高清电影 高清,http://222.218.158.207:8181/tsfile/live/1020_1.m3u8?key=
 四川新闻,http://183.223.157.33:9901/tsfile/live/1003_1.m3u8?key=txiptv
 四川科教,http://183.223.157.33:9901/tsfile/live/1005_1.m3u8?key=txiptv
 峨眉电影,http://183.223.157.33:9901/tsfile/live/1006_1.m3u8?key=txiptv
+
+
+
+山东卫视,http://60.212.2.122:8154/tsfile/live/0131_1.m3u8?key=txiptv
+山东齐鲁,http://60.212.2.122:8154/tsfile/live/1001_1.m3u8?key=txiptv
+山东新闻,http://60.212.2.122:8154/tsfile/live/1002_1.m3u8?key=txiptv
+山东综艺,http://60.212.2.122:8154/tsfile/live/1003_1.m3u8?key=txiptv
+山东文旅,http://60.212.2.122:8154/tsfile/live/1004_1.m3u8?key=txiptv
+山东生活,http://60.212.2.122:8154/tsfile/live/1005_1.m3u8?key=txiptv
+山东体育,http://60.212.2.122:8154/tsfile/live/1006_1.m3u8?key=txiptv
+山东少儿,http://60.212.2.122:8154/tsfile/live/1007_1.m3u8?key=txiptv
+
+山东卫视,http://123.235.8.37:9901/tsfile/live/0131_1.m3u8
+山东齐鲁,http://123.235.8.37:9901/tsfile/live/1001_1.m3u8
+山东新闻,http://123.235.8.37:9901/tsfile/live/1002_1.m3u8
+山东综艺,http://123.235.8.37:9901/tsfile/live/1003_1.m3u8
+山东生活,http://123.235.8.37:9901/tsfile/live/1004_1.m3u8
+山东影视,http://123.235.8.37:9901/tsfile/live/1005_1.m3u8
+山东体育,http://123.235.8.37:9901/tsfile/live/1006_1.m3u8
+山东农科,http://123.235.8.37:9901/tsfile/live/1007_1.m3u8
+山东少儿,http://123.235.8.37:9901/tsfile/live/1008_1.m3u8
+山东教育,http://123.235.8.37:9901/tsfile/live/1010_1.m3u8
+青岛1,http://123.235.8.37:9901/tsfile/live/1011_1.m3u8
+青岛2,http://123.235.8.37:9901/tsfile/live/1012_1.m3u8
+青岛3,http://123.235.8.37:9901/tsfile/live/1013_1.m3u8
+青岛4,http://123.235.8.37:9901/tsfile/live/1014_1.m3u8
+青岛5,http://123.235.8.37:9901/tsfile/live/1015_1.m3u8
+青岛6,http://123.235.8.37:9901/tsfile/live/1016_1.m3u8
+
+
+河北卫视高清,http://121.19.134.21:808/tsfile/live/0019_1.m3u8?key=txiptv
+河北经济生活高清,http://121.19.134.21:808/tsfile/live/1000_1.m3u8?key=txiptv
+河北都市高清,http://121.19.134.21:808/tsfile/live/1001_1.m3u8?key=txiptv
+河北影视剧高清,http://121.19.134.21:808/tsfile/live/1002_1.m3u8?key=txiptv
+河北少儿科教高清,http://121.19.134.21:808/tsfile/live/1003_1.m3u8?key=txiptv
+河北公共高清,http://121.19.134.21:808/tsfile/live/1004_1.m3u8?key=txiptv
+河北农民高清,http://121.19.134.21:808/tsfile/live/1005_1.m3u8?key=txiptv
+河北杂技,http://121.19.134.21:808/tsfile/live/1006_1.m3u8?key=txiptv
+保定新闻综合,http://121.19.134.21:808/tsfile/live/1007_1.m3u8?key=txiptv
+保定公共频道,http://121.19.134.21:808/tsfile/live/1008_1.m3u8?key=txiptv
+保定生活健康,http://121.19.134.21:808/tsfile/live/1009_1.m3u8?key=txiptv
+
+
+
+湖南卫视,http://183.215.94.65:9998/tsfile/live/1075_1.m3u8?key=txiptv
+湖南经视,http://183.215.94.65:9998/tsfile/live/1048_1.m3u8?key=txiptv
+湖南都市,http://183.215.94.65:9998/tsfile/live/1073_1.m3u8?key=txiptv
+湖南电视剧,http://183.215.94.65:9998/tsfile/live/1024_1.m3u8?key=txiptv
+湖南爱晚,http://183.215.94.65:9998/tsfile/live/1074_1.m3u8?key=txiptv
+湖南电影,http://183.215.94.65:9998/tsfile/live/1013_1.m3u8?key=txiptv
+湖南教育,http://183.215.94.65:9998/tsfile/live/1015_1.m3u8?key=txiptv
+湖南娱乐,http://183.215.94.65:9998/tsfile/live/1016_1.m3u8?key=txiptv
+湖南金鹰纪实,http://183.215.94.65:9998/tsfile/live/1061_1.m3u8?key=txiptv
+湖南导视,http://183.215.94.65:9998/tsfile/live/1017_1.m3u8?key=txiptv
 
 
 
@@ -3012,24 +3091,6 @@ New TV频道,#genre#
 
 
 
-山东卫视,http://123.235.8.37:9901/tsfile/live/0131_1.m3u8
-山东齐鲁,http://123.235.8.37:9901/tsfile/live/1001_1.m3u8
-山东公共,http://123.235.8.37:9901/tsfile/live/1002_1.m3u8
-山东综艺,http://123.235.8.37:9901/tsfile/live/1003_1.m3u8
-山东生活,http://123.235.8.37:9901/tsfile/live/1004_1.m3u8
-山东影视,http://123.235.8.37:9901/tsfile/live/1005_1.m3u8
-山东体育,http://123.235.8.37:9901/tsfile/live/1006_1.m3u8
-山东农科,http://123.235.8.37:9901/tsfile/live/1007_1.m3u8
-山东少儿,http://123.235.8.37:9901/tsfile/live/1008_1.m3u8
-山东教育,http://123.235.8.37:9901/tsfile/live/1010_1.m3u8
-青岛TV1,http://123.235.8.37:9901/tsfile/live/1011_1.m3u8
-青岛TV2,http://123.235.8.37:9901/tsfile/live/1012_1.m3u8
-青岛TV3,http://123.235.8.37:9901/tsfile/live/1013_1.m3u8
-青岛TV4,http://123.235.8.37:9901/tsfile/live/1014_1.m3u8
-青岛TV5,http://123.235.8.37:9901/tsfile/live/1015_1.m3u8
-青岛TV6,http://123.235.8.37:9901/tsfile/live/1016_1.m3u8
-
-
 陕西卫视,http://36.46.99.158:8011/udp/239.109.205.66:8464
 陕西卫视,http://36.46.99.158:8011/udp/239.111.205.35:5140
 陕西新闻,http://36.46.99.158:8011/udp/239.111.205.28:5140
@@ -3289,5 +3350,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
  TNT Sport 3,https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
  Sky Sports News HD,https://hls.streambtw.com/live/stream_1.m3u8
  USA Sports HD,https://hls.streambtw.com/live/stream_3.m3u8
+
 
 
