@@ -3485,10 +3485,8 @@ New TV频道,#genre#
 🇨🇳测试频道,#genre#
 
 TVB 翡翠台(香港),http://r.jdshipin.com/GeWKr?id=fct720
-TVB 翡翠台(马来),http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=153395&extension=ts&play_token=RyfNMzmtfK
-TVB 经典台,http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=153503&extension=ts&play_token=j2SfUOkh6K
 
-STAR 电影台http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282639&extension=ts
+STAR 电影台,http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282639&extension=ts
 凤凰卫视中文台,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰卫视资讯台,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰卫视香港台,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
