@@ -14,6 +14,9 @@ TVB 翡翠台,http://120.238.13.198:8000/hls/21/index.m3u8
 凤凰卫视资讯台,http://113.117.74.181:8081/hls/36/index.m3u8 
 凤凰卫视香港台,http://113.117.74.181:8081/hls/38/index.m3u8
 
+凤凰卫视中文台,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰卫视资讯台,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰卫视香港台,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
 
 辽宁卫视,http://113.236.24.52:9901/tsfile/live/1165_1.m3u8?key=txiptv
@@ -222,6 +225,18 @@ GHC 高清电影 高清,http://222.218.158.207:8181/tsfile/live/1020_1.m3u8?key=
 保定生活健康,http://101.18.31.176:808/hls/28/index.m3u8
 
 
+湖南卫视高清,http://58.20.19.126:10999/tsfile/live/0130_1.m3u8?key=txiptv
+湖南电视剧高清,http://58.20.19.126:10999/tsfile/live/0120_1.m3u8?key=txiptv
+湖南都市高清,http://58.20.19.126:10999/tsfile/live/0139_1.m3u8?key=txiptv
+湖南公共高清,http://58.20.19.126:10999/tsfile/live/0117_1.m3u8?key=txiptv
+湖南经视高清,http://58.20.19.126:10999/tsfile/live/0131_1.m3u8?key=txiptv
+湖南娱乐高清,http://58.20.19.126:10999/tsfile/live/0125_1.m3u8?key=txiptv
+湖南导视,http://58.20.19.126:10999/tsfile/live/0003_1.m3u8?key=txiptv
+金鹰纪实高清,http://58.20.19.126:10999/tsfile/live/1001_1.m3u8?key=txiptv
+金鹰卡通高清,http://58.20.19.126:10999/tsfile/live/1002_1.m3u8?key=txiptv
+潇湘电影高清,http://58.20.19.126:10999/tsfile/live/1009_1.m3u8?key=txiptv
+
+
 
 
 
@@ -233,17 +248,6 @@ GHC 高清电影 高清,http://222.218.158.207:8181/tsfile/live/1020_1.m3u8?key=
 湖北影视,http://58.51.109.158:9901/tsfile/live/23279_1.m3u8?key=txiptv
 湖北生活,http://58.51.109.158:9901/tsfile/live/23280_1.m3u8?key=txiptv
 湖北教育,http://58.51.109.158:9901/tsfile/live/23281_1.m3u8?key=txiptv
-
-湖南卫视,http://183.215.94.65:9998/tsfile/live/1075_1.m3u8?key=txiptv
-湖南经视,http://183.215.94.65:9998/tsfile/live/1048_1.m3u8?key=txiptv
-湖南都市,http://183.215.94.65:9998/tsfile/live/1073_1.m3u8?key=txiptv
-湖南电视剧,http://183.215.94.65:9998/tsfile/live/1024_1.m3u8?key=txiptv
-湖南爱晚,http://183.215.94.65:9998/tsfile/live/1074_1.m3u8?key=txiptv
-湖南电影,http://183.215.94.65:9998/tsfile/live/1013_1.m3u8?key=txiptv
-湖南教育,http://183.215.94.65:9998/tsfile/live/1015_1.m3u8?key=txiptv
-湖南娱乐,http://183.215.94.65:9998/tsfile/live/1016_1.m3u8?key=txiptv
-湖南金鹰纪实,http://183.215.94.65:9998/tsfile/live/1061_1.m3u8?key=txiptv
-湖南导视,http://183.215.94.65:9998/tsfile/live/1017_1.m3u8?key=txiptv
 
 
 
@@ -297,6 +301,8 @@ CCTV16,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3
 CCTV16 4K,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
 CCTV17,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
 
+CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 
 凤凰卫视中文台,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰卫视资讯台,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
@@ -3478,10 +3484,11 @@ New TV频道,#genre#
 
 🇨🇳测试频道,#genre#
 
-
+TVB 翡翠台(香港),http://r.jdshipin.com/GeWKr?id=fct720
+TVB 翡翠台(马来),http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=153395&extension=ts&play_token=RyfNMzmtfK
 TVB 经典台,http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=153503&extension=ts&play_token=j2SfUOkh6K
-TVB 翡翠台,http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=153395&extension=ts&play_token=RyfNMzmtfK
 
+STAR 电影台http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282639&extension=ts
 凤凰卫视中文台,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰卫视资讯台,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰卫视香港台,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
@@ -3514,6 +3521,10 @@ NASA 1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u
 NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
+TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
+中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
+中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
+
 
  TNT Sports 1,https://soccer.freesportstime.com/live/stream_1.m3u8
  TNT Sports 1,https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
@@ -3523,5 +3534,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
  Sky Sports News HD,https://hls.streambtw.com/live/stream_1.m3u8
  USA Sports HD,https://hls.streambtw.com/live/stream_3.m3u8
 
-
+黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
+CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 
