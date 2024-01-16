@@ -8,10 +8,9 @@ TVB 翡翠台,http://120.238.13.198:8000/hls/21/index.m3u8
 TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
 中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
 中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
-凤凰卫视中文台,http://xuxingwen.hk3.345888.xyz.cdn.cloudflare.net/凤凰V6.php?id=fhws
-凤凰卫视资讯台,http://xuxingwen.hk3.345888.xyz.cdn.cloudflare.net/凤凰V6.php?id=fhzx
-凤凰卫视香港台,http://xuxingwen.hk3.345888.xyz.cdn.cloudflare.net/凤凰V6.php?id=fhhk
-
+凤凰卫视中文台,http://xuxingwen.hk3.345888.xyz.cdn.cloudflare.net/凤凰卫视.php?id=fhws
+凤凰卫视资讯台,http://xuxingwen.hk3.345888.xyz.cdn.cloudflare.net/凤凰卫视.php?id=fhzx
+凤凰卫视香港台,http://xuxingwen.hk3.345888.xyz.cdn.cloudflare.net/凤凰卫视.php?id=fhxg
 
 辽宁卫视,http://113.236.24.52:9901/tsfile/live/1165_1.m3u8?key=txiptv
 辽宁北方,http://113.236.24.52:9901/tsfile/live/1018_1.m3u8?key=txiptv
