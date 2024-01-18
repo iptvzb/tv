@@ -10,25 +10,30 @@ Now 爆谷台,https://s2.pub/xingying720
 TVB 翡翠台,http://120.238.13.198:8000/hls/21/index.m3u8
 长影频道,http://122.140.40.186:9901/tsfile/live/1010_1.m3u8?key=txiptv
 长影频道,http://app.jlctkd.com:19901/tsfile/live/1010_1.m3u8
-周星驰,https://live.metshop.top/huya/11342412
-王晶,https://live.metshop.top/huya/11602058
-成龙,https://live.metshop.top/huya/11342386
-周润发,https://live.metshop.top/huya/11342387
-李连杰,https://live.metshop.top/huya/11342390
-CCTV6,https://hlslive.1905.com/live/LIVEI56PNI726KA7A/index.m3u8?tm=1705488544&sign=cdd6a1345d08963c160a22e49a2c3199
-1905电影网(国际),https://hlslive.1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8?tm=1705483669&sign=8bdb32313db059ea50e97f31327028a1
+
 重温经典频道,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?t=Q3ZTI5YWVmMmUwM==&d=7e29aef2e03907f&pid=&cid=20&u=freeuser&l=001&sid=My5f5evM7A+JM7kBEt7zRg==&r=20240116195900&e=20240117195900&nc=5juVZbdBPOgB&a=7&v=2&hlsSessionID=7114844658832085543&srchost=172.16.22.158:8060&gid=1cTuE8i8Z%2F6MoBf3Sw1THw%3D%3D
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 咪咕精彩足球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 
 华视,https://s2.pub/huashi720
+
+台视新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
+中视新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
+公视新闻,http://livetv.skycf.eu.org/live.m3u8?c=8
+民视新闻,http://livetv.skycf.eu.org/live.m3u8?c=11
+三立新闻,http://livetv.skycf.eu.org/live.m3u8?c=12 
 TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
 中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
 中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
 凤凰卫视中文台,http://xuxingwen.hk3.345888.xyz.cdn.cloudflare.net/凤凰卫视.php?id=fhws
 凤凰卫视资讯台,http://xuxingwen.hk3.345888.xyz.cdn.cloudflare.net/凤凰卫视.php?id=fhzx
 凤凰卫视香港台,http://xuxingwen.hk3.345888.xyz.cdn.cloudflare.net/凤凰卫视.php?id=fhhk
-
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+周星驰,https://live.metshop.top/huya/11342412
+王晶,https://live.metshop.top/huya/11602058
+成龙,https://live.metshop.top/huya/11342386
+周润发,https://live.metshop.top/huya/11342387
+李连杰,https://live.metshop.top/huya/11342390
 
 
 🇨🇳综合频道,#genre#
@@ -620,6 +625,74 @@ Boomerang,mitv://generationnexxxt.com:19806/65619d3500003c6967236ef726ef1633
 
 
 
+
+
+广东酒店,#genre#
+
+广东卫视-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/0002_1.m3u8?key=txiptv
+广州综合-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/0003_1.m3u8?key=txiptv
+广州新闻-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/0004_1.m3u8?key=txiptv
+广州竞赛-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1007_1.m3u8?key=txiptv
+广州影视-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1008_1.m3u8?key=txiptv
+广东珠江-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1024_1.m3u8?key=txiptv
+广州法治-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1029_1.m3u8?key=txiptv
+翡翠台-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1031_1.m3u8?key=txiptv
+明珠台-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1032_1.m3u8?key=txiptv
+凤凰中文,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1033_1.m3u8?key=txiptv
+澳亚卫视,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1034_1.m3u8?key=txiptv
+星空卫视,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1040_1.m3u8?key=txiptv
+广东大湾区卫视,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1035_1.m3u8?key=txiptv
+广东影视,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1036_1.m3u8?key=txiptv
+广东岭南戏曲,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1037_1.m3u8?key=txiptv
+广东民生,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1038_1.m3u8?key=txiptv
+广东新闻,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1039_1.m3u8?key=txiptv
+广东体育高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1009_1.m3u8?key=txiptv
+
+
+
+
+中央1台-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/0001_1.m3u8?key=txiptv
+中央2台高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/0016_1.m3u8?key=txiptv
+中央3台高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/0017_1.m3u8?key=txiptv
+中央4台高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1013_1.m3u8?key=txiptv
+中央5台高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/0018_1.m3u8?key=txiptv
+CCTV5+体育赛事,http://202309211718.iptv.z-link.cn:8800/tsfile/live/0019_1.m3u8?key=txiptv
+中央6台高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1000_1.m3u8?key=txiptv
+中央7台高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1001_1.m3u8?key=txiptv
+中央8台高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1002_1.m3u8?key=txiptv
+中央9台高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1003_1.m3u8?key=txiptv
+中央10台高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1004_1.m3u8?key=txiptv
+中央12台高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1005_1.m3u8?key=txiptv
+中央少儿高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1006_1.m3u8?key=txiptv
+中央新闻-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1030_1.m3u8?key=txiptv
+湖南卫视-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/0005_1.m3u8?key=txiptv
+北京卫视-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/0006_1.m3u8?key=txiptv
+东方卫视-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/0007_1.m3u8?key=txiptv
+浙江卫视-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/0008_1.m3u8?key=txiptv
+江苏卫视-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/0009_1.m3u8?key=txiptv
+湖北卫视-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/0010_1.m3u8?key=txiptv
+深圳卫视-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/0011_1.m3u8?key=txiptv
+山东卫视-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/0012_1.m3u8?key=txiptv
+天津卫视-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/0013_1.m3u8?key=txiptv
+安徽卫视-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/0014_1.m3u8?key=txiptv
+辽宁卫视-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/0015_1.m3u8?key=txiptv
+北京纪实科教-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1010_1.m3u8?key=txiptv
+重庆卫视高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1011_1.m3u8?key=txiptv
+青海卫视高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1012_1.m3u8?key=txiptv
+四川卫视高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1014_1.m3u8?key=txiptv
+河北卫视高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1015_1.m3u8?key=txiptv
+贵州卫视高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1016_1.m3u8?key=txiptv
+吉林卫视高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1017_1.m3u8?key=txiptv
+江西卫视高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1018_1.m3u8?key=txiptv
+河南卫视高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1019_1.m3u8?key=txiptv
+中教1台-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1020_1.m3u8?key=txiptv
+广西卫视-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1021_1.m3u8?key=txiptv
+中央11台-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1022_1.m3u8?key=txiptv
+中央音乐-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1023_1.m3u8?key=txiptv
+中央17台-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1025_1.m3u8?key=txiptv
+金鹰卡通-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1026_1.m3u8?key=txiptv
+海南卫视-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1027_1.m3u8?key=txiptv
+云南卫视-高清,http://202309211718.iptv.z-link.cn:8800/tsfile/live/1028_1.m3u8?key=txiptv
 
 
 
@@ -3139,72 +3212,87 @@ GHC 高清电影 高清,http://222.218.158.207:8181/tsfile/live/1020_1.m3u8?key=
 青岛6,http://szktv.7766.org:9921/hls/54/index.m3u8
 
 
-河南卫视,http://171.11.107.113:4431/hls/20/index.m3u8
-河南都市,http://171.11.107.113:4431/hls/21/index.m3u8
-河南民生,http://171.11.107.113:4431/hls/22/index.m3u8
-河南法治,http://171.11.107.113:4431/hls/23/index.m3u8
-河南电视剧,http://171.11.107.113:4431/hls/24/index.m3u8
-河南新闻,http://171.11.107.113:4431/hls/25/index.m3u8
-河南公共,http://171.11.107.113:4431/hls/26/index.m3u8
-河南乡村,http://171.11.107.113:4431/hls/27/index.m3u8
-河南国际,http://171.11.107.113:4431/hls/28/index.m3u8
-河南晴彩中原,http://171.11.107.113:4431/hls/29/index.m3u8
-河南移动戏曲,http://171.11.107.113:4431/hls/30/index.m3u8
-河南收藏天下,http://171.11.107.113:4431/hls/31/index.m3u8
-河南戏曲,http://171.11.107.113:4431/hls/32/index.m3u8
-河南中华功夫,http://171.11.107.113:4431/hls/33/index.m3u8
-河南百姓调解 ,http://171.11.107.113:4431/hls/35/index.m3u8
+山西卫视,http://15536746789.x3322.net:9901/tsfile/live/1016_1.m3u8?key=txiptv
+山西影视,http://15536746789.x3322.net:9901/tsfile/live/1005_1.m3u8?key=txiptv
+山西公共,http://15536746789.x3322.net:9901/tsfile/live/1006_1.m3u8?key=txiptv
+山西科教,http://15536746789.x3322.net:9901/tsfile/live/1000_1.m3u8?key=txiptv
+黄河卫视,http://15536746789.x3322.net:9901/tsfile/live/1001_1.m3u8?key=txiptv
 
-河南卫视,http://42.231.60.142:808/hls/17/index.m3u8
-河南都市,http://42.231.60.142:808/hls/18/index.m3u8
-河南民生,http://42.231.60.142:808/hls/19/index.m3u8
-河南法治,http://42.231.60.142:808/hls/20/index.m3u8
-河南电视剧,http://42.231.60.142:808/hls/21/index.m3u8
-河南新闻,http://42.231.60.142:808/hls/22/index.m3u8
-河南公共,http://42.231.60.142:808/hls/24/index.m3u8
-河南国际,http://42.231.60.142:808/hls/26/index.m3u8
-河南收藏天下,http://42.231.60.142:808/hls/29/index.m3u8
-河南戏曲,http://42.231.60.142:808/hls/30/index.m3u8
-河南中华功夫,http://42.231.60.142:808/hls/31/index.m3u8
+
+河南卫视,http://171.8.138.71:85/tsfile/live/0139_1.m3u8?key=txiptv
+都市频道,http://171.8.138.71:85/tsfile/live/1000_1.m3u8?key=txiptv
+民生频道,http://171.8.138.71:85/tsfile/live/1001_1.m3u8?key=txiptv
+法制频道,http://171.8.138.71:85/tsfile/live/1002_1.m3u8?key=txiptv
+新闻频道,http://171.8.138.71:85/tsfile/live/1003_1.m3u8?key=txiptv
+公共频道,http://171.8.138.71:85/tsfile/live/1004_1.m3u8?key=txiptv
+移动戏曲,http://171.8.138.71:85/tsfile/live/1005_1.m3u8?key=txiptv
 
 
 
 
-河北卫视高清,http://121.19.134.21:808/tsfile/live/0019_1.m3u8?key=txiptv
-河北经济生活高清,http://121.19.134.21:808/tsfile/live/1000_1.m3u8?key=txiptv
-河北都市高清,http://121.19.134.21:808/tsfile/live/1001_1.m3u8?key=txiptv
-河北影视剧高清,http://121.19.134.21:808/tsfile/live/1002_1.m3u8?key=txiptv
-河北少儿科教高清,http://121.19.134.21:808/tsfile/live/1003_1.m3u8?key=txiptv
-河北公共高清,http://121.19.134.21:808/tsfile/live/1004_1.m3u8?key=txiptv
-河北农民高清,http://121.19.134.21:808/tsfile/live/1005_1.m3u8?key=txiptv
+河北卫视,http://hbyxmlg.picp.io:8088/tsfile/live/0117_1.m3u8?key=txiptv
+河北经济,http://hbyxmlg.picp.io:8088/tsfile/live/1000_1.m3u8?key=txiptv
+河北都市,http://hbyxmlg.picp.io:8088/tsfile/live/1001_1.m3u8?key=txiptv
+河北影视剧,http://hbyxmlg.picp.io:8088/tsfile/live/1002_1.m3u8?key=txiptv
+河北少儿科教,http://hbyxmlg.picp.io:8088/tsfile/live/1003_1.m3u8?key=txiptv
+河北公共,http://hbyxmlg.picp.io:8088/tsfile/live/1004_1.m3u8?key=txiptv
+河北农民,http://hbyxmlg.picp.io:8088/tsfile/live/1005_1.m3u8?key=txiptv
+石家庄新闻,http://hbyxmlg.picp.io:8088/tsfile/live/1013_1.m3u8?key=txiptv
+石家庄都市,http://hbyxmlg.picp.io:8088/tsfile/live/1017_1.m3u8?key=txiptv
+石家庄娱乐,http://hbyxmlg.picp.io:8088/tsfile/live/1019_1.m3u8?key=txiptv
+石家庄生活,http://hbyxmlg.picp.io:8088/tsfile/live/1022_1.m3u8?key=txiptv
+邯郸新闻,http://hbyxmlg.picp.io:8088/tsfile/live/1006_1.m3u8?key=txiptv
+邯郸民生都市,http://hbyxmlg.picp.io:8088/tsfile/live/1007_1.m3u8?key=txiptv
+邯郸公共,http://hbyxmlg.picp.io:8088/tsfile/live/1008_1.m3u8?key=txiptv
+
+
+河北卫视,http://121.19.134.21:808/tsfile/live/0019_1.m3u8?key=txiptv
+河北经济生活,http://121.19.134.21:808/tsfile/live/1000_1.m3u8?key=txiptv
+河北都市,http://121.19.134.21:808/tsfile/live/1001_1.m3u8?key=txiptv
+河北影视剧,http://121.19.134.21:808/tsfile/live/1002_1.m3u8?key=txiptv
+河北少儿科教,http://121.19.134.21:808/tsfile/live/1003_1.m3u8?key=txiptv
+河北公共,http://121.19.134.21:808/tsfile/live/1004_1.m3u8?key=txiptv
+河北农民,http://121.19.134.21:808/tsfile/live/1005_1.m3u8?key=txiptv
 河北杂技,http://121.19.134.21:808/tsfile/live/1006_1.m3u8?key=txiptv
 保定新闻综合,http://121.19.134.21:808/tsfile/live/1007_1.m3u8?key=txiptv
-保定公共频道,http://121.19.134.21:808/tsfile/live/1008_1.m3u8?key=txiptv
+保定公共,http://121.19.134.21:808/tsfile/live/1008_1.m3u8?key=txiptv
 保定生活健康,http://121.19.134.21:808/tsfile/live/1009_1.m3u8?key=txiptv
 
-河北卫视高清,http://101.18.31.176:808/hls/25/index.m3u8
-河北经济生活高清,http://101.18.31.176:808/hls/24/index.m3u8
-河北都市高清,http://101.18.31.176:808/hls/18/index.m3u8
-河北影视剧高清,http://101.18.31.176:808/hls/19/index.m3u8
-河北少儿科教高清,http://101.18.31.176:808/hls/20/index.m3u8
-河北公共高清,http://101.18.31.176:808/hls/21/index.m3u8
-河北农民高清,http://101.18.31.176:808/hls/22/index.m3u8
+河北卫视,http://101.18.31.176:808/hls/25/index.m3u8
+河北经济生活,http://101.18.31.176:808/hls/24/index.m3u8
+河北都市,http://101.18.31.176:808/hls/18/index.m3u8
+河北影视剧,http://101.18.31.176:808/hls/19/index.m3u8
+河北少儿科教,http://101.18.31.176:808/hls/20/index.m3u8
+河北公共,http://101.18.31.176:808/hls/21/index.m3u8
+河北农民,http://101.18.31.176:808/hls/22/index.m3u8
 河北杂技,http://101.18.31.176:808/hls/23/index.m3u8
 保定新闻综合,http://101.18.31.176:808/hls/26/index.m3u8
-保定公共频道,http://101.18.31.176:808/hls/27/index.m3u8
+保定公共,http://101.18.31.176:808/hls/27/index.m3u8
 保定生活健康,http://101.18.31.176:808/hls/28/index.m3u8
 
 
-湖南卫视高清,http://58.20.19.126:10999/tsfile/live/0130_1.m3u8?key=txiptv
-湖南电视剧高清,http://58.20.19.126:10999/tsfile/live/0120_1.m3u8?key=txiptv
-湖南都市高清,http://58.20.19.126:10999/tsfile/live/0139_1.m3u8?key=txiptv
-湖南公共高清,http://58.20.19.126:10999/tsfile/live/0117_1.m3u8?key=txiptv
-湖南经视高清,http://58.20.19.126:10999/tsfile/live/0131_1.m3u8?key=txiptv
-湖南娱乐高清,http://58.20.19.126:10999/tsfile/live/0125_1.m3u8?key=txiptv
+湖南卫视,http://58.20.19.126:10999/tsfile/live/0130_1.m3u8?key=txiptv
+湖南电视剧,http://58.20.19.126:10999/tsfile/live/0120_1.m3u8?key=txiptv
+湖南都市,http://58.20.19.126:10999/tsfile/live/0139_1.m3u8?key=txiptv
+湖南公共,http://58.20.19.126:10999/tsfile/live/0117_1.m3u8?key=txiptv
+湖南经视,http://58.20.19.126:10999/tsfile/live/0131_1.m3u8?key=txiptv
+湖南娱乐,http://58.20.19.126:10999/tsfile/live/0125_1.m3u8?key=txiptv
 湖南导视,http://58.20.19.126:10999/tsfile/live/0003_1.m3u8?key=txiptv
-金鹰纪实高清,http://58.20.19.126:10999/tsfile/live/1001_1.m3u8?key=txiptv
-金鹰卡通高清,http://58.20.19.126:10999/tsfile/live/1002_1.m3u8?key=txiptv
-潇湘电影高清,http://58.20.19.126:10999/tsfile/live/1009_1.m3u8?key=txiptv
+金鹰纪实,http://58.20.19.126:10999/tsfile/live/1001_1.m3u8?key=txiptv
+金鹰卡通,http://58.20.19.126:10999/tsfile/live/1002_1.m3u8?key=txiptv
+湖南电影,http://58.20.19.126:10999/tsfile/live/1009_1.m3u8?key=txiptv
+
+
+湖南卫视,http://175.0.51.26:8899/tsfile/live/0128_1.m3u8?key=txiptv
+湖南经视,http://175.0.51.26:8899/tsfile/live/1042_1.m3u8?key=txiptv
+湖南电视剧,http://175.0.51.26:8899/tsfile/live/1043_1.m3u8?key=txiptv
+湖南都市,http://175.0.51.26:8899/tsfile/live/1044_1.m3u8?key=txiptv
+湖南电影,http://175.0.51.26:8899/tsfile/live/1000_1.m3u8?key=txiptv
+金鹰卡通,http://175.0.51.26:8899/tsfile/live/0011_1.m3u8?key=txiptv
+湖南公共,http://175.0.51.26:8899/tsfile/live/0012_1.m3u8?key=txiptv
+湖南娱乐,http://175.0.51.26:8899/tsfile/live/1001_1.m3u8?key=txiptv
+湖南国际,http://175.0.51.26:8899/tsfile/live/1002_1.m3u8?key=txiptv
+
 
 
 
