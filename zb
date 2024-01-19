@@ -10,6 +10,7 @@ TVB 翡翠台,http://120.238.13.198:8000/hls/21/index.m3u8
 东森电影,http://51.77.65.194:44449/liveplay.m3u8
 龙祥时代,http://51.77.65.194:43302/liveplay.m3u8
 长影频道,http://app.jlctkd.com:19901/tsfile/live/1010_1.m3u8
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 重温经典频道,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?t=Q3ZTI5YWVmMmUwM==&d=7e29aef2e03907f&pid=&cid=20&u=freeuser&l=001&sid=My5f5evM7A+JM7kBEt7zRg==&r=20240116195900&e=20240117195900&nc=5juVZbdBPOgB&a=7&v=2&hlsSessionID=7114844658832085543&srchost=172.16.22.158:8060&gid=1cTuE8i8Z%2F6MoBf3Sw1THw%3D%3D
 重温经典频道,http://mtw.so/61Yji6
@@ -3519,6 +3520,13 @@ New TV频道,#genre#
 绍兴综合,http://chat.2girls.cn:8899/udp/233.50.201.156:5140
 
 
+
+云南卫视,http://103.45.68.47:666/gy/gy_nTyhwF/云南.php?id=8xughf/e0bx15
+云南都市,http://103.45.68.47:666/gy/gy_nTyhwF/云南.php?id=62hdvf/rjwt14
+云南娱乐,http://103.45.68.47:666/gy/gy_nTyhwF/云南.php?id=62hdvf/iq8639
+云南影视,http://103.45.68.47:666/gy/gy_nTyhwF/云南.php?id=62hdvf/utrat7
+云南康旅,http://103.45.68.47:666/gy/gy_nTyhwF/云南.php?id=62hdvf/227q43
+云南少儿,http://103.45.68.47:666/gy/gy_nTyhwF/云南.php?id=62hdvf/9ojsty
 
 
 内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
