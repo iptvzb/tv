@@ -7,7 +7,8 @@
 天映频道,http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
 天映经典,http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
 TVB 翡翠台,http://120.238.13.198:8000/hls/21/index.m3u8
-长影频道,http://122.140.40.186:9901/tsfile/live/1010_1.m3u8?key=txiptv
+东森电影,http://51.77.65.194:44449/liveplay.m3u8
+龙祥时代,http://51.77.65.194:43302/liveplay.m3u8
 长影频道,http://app.jlctkd.com:19901/tsfile/live/1010_1.m3u8
 
 重温经典频道,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?t=Q3ZTI5YWVmMmUwM==&d=7e29aef2e03907f&pid=&cid=20&u=freeuser&l=001&sid=My5f5evM7A+JM7kBEt7zRg==&r=20240116195900&e=20240117195900&nc=5juVZbdBPOgB&a=7&v=2&hlsSessionID=7114844658832085543&srchost=172.16.22.158:8060&gid=1cTuE8i8Z%2F6MoBf3Sw1THw%3D%3D
@@ -30,11 +31,11 @@ TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
 凤凰卫视资讯台,http://xuxingwen.hk3.345888.xyz.cdn.cloudflare.net/凤凰卫视.php?id=fhzx
 凤凰卫视香港台,http://xuxingwen.hk3.345888.xyz.cdn.cloudflare.net/凤凰卫视.php?id=fhhk
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-周星驰,https://live.metshop.top/huya/11342412
-王晶,https://live.metshop.top/huya/11602058
-成龙,https://live.metshop.top/huya/11342386
-周润发,https://live.metshop.top/huya/11342387
-李连杰,https://live.metshop.top/huya/11342390
+
+
+
+
+
 
 
 🇨🇳综合频道,#genre#
@@ -174,6 +175,72 @@ CCTV风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+
+
+
+
+
+🇨🇳央视频,#genre#
+
+
+CCTV1,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv1
+CCTV2,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv2
+CCTV3,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv3
+CCTV4,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv4
+CCTV5,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv5
+CCTV5+,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv5p
+CCTV6,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv6
+CCTV7,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv7
+CCTV8,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv8
+CCTV9,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv9
+CCTV10,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv10
+CCTV11,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv11
+CCTV12,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv12
+CCTV13,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv13
+CCTV14,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv14
+CCTV15,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv15
+CCTV16,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv16
+CCTV17,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv17
+CCTV4K,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv4k
+CCTV8K,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv8k
+CCTV16-4K,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cctv16-4k
+北京卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=bjws
+东方卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=dfws
+天津卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=tjws
+重庆卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=cqws
+黑龙江卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=hljws
+辽宁卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=lnws
+河北卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=hbws
+山东卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=sdws
+安徽卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=ahws
+河南卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=hnws
+湖北卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=hubws
+湖南卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=hunws
+江西卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=jxws
+江苏卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=jsws
+浙江卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=zjws
+东南卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=dnws
+广东卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=gdws
+深圳卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=szws
+广西卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=gxws
+贵州卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=gzws
+四川卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=scws
+新疆卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=xjws
+海南卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=hinws
+兵器科技,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=bqkj
+第一剧场,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=dyjc
+怀旧剧场,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=hjjc
+风云剧场,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=fyjc
+风云音乐,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=fyyy
+风云足球,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=fyzq
+电视指南,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=dszn
+女性时尚,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=nxss
+文化精品,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=whjp
+世界地理,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=sjdl
+高尔夫网球,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=gefwq
+央视台球,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=ystq
+
 
 
 
