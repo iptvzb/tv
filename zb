@@ -4,24 +4,26 @@
 繁花,http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/4/224/3221228710/index.m3u8
 经典重现台,http://43.138.170.29:35455/douyu/9842814
 经典功夫台,http://43.138.170.29:35455/douyu/11566286
+邵氏影院,http://43.138.170.29:35455/douyu/4246519
+黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
+
 天映频道,http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
 天映经典,http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
+
 Now 星影台,https://s2.pub/now-baogu-superstars
 Now 爆谷台,https://s2.pub/2n5
+
 亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
-东森美洲台,http://4ksuper.live:80/Patricia/Patricia123/156397
-东森卫视,http://4ksuper.live:80/Patricia/Patricia123/156394
-TVB1,http://4ksuper.live:80/Patricia/Patricia123/153396
-TVB 星河(粤语),http://4ksuper.live:80/Patricia/Patricia123/153506
-TVB 经典台,http://4ksuper.live:80/Patricia/Patricia123/153503
-邵氏影院,http://43.138.170.29:35455/douyu/4246519
+
+公视,http://ali.hlspull.yximgs.com:80/live/f46fcf1ef4236dc78ace80ac078d6bd4.flv
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+
 重温经典频道,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?t=Q3ZTI5YWVmMmUwM==&d=7e29aef2e03907f&pid=&cid=20&u=freeuser&l=001&sid=My5f5evM7A+JM7kBEt7zRg==&r=20240116195900&e=20240117195900&nc=5juVZbdBPOgB&a=7&v=2&hlsSessionID=7114844658832085543&srchost=172.16.22.158:8060&gid=1cTuE8i8Z%2F6MoBf3Sw1THw%3D%3D
 重温经典频道,http://mtw.so/61Yji6
+
 JJ斗地主,https://s2.pub/JJdoudizhu
 JJ斗地主,http://mrw.so/61DwWY
-咪咕精彩足球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
-欧洲体育,http://2820775d.russtv.net/iptv/ECBZ73YHHBA898/15097/index.m3u8
+
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 
 
@@ -61,11 +63,12 @@ JJ斗地主,http://mrw.so/61DwWY
 NASA 1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 
-黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 劲爆体育,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
 劲爆体育,http://iptv.mazzz.cc/api/gdapi.php?id=jbtyhd
+欧洲体育,http://2820775d.russtv.net/iptv/ECBZ73YHHBA898/15097/index.m3u8
+咪咕精彩足球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 
 
 
@@ -141,6 +144,9 @@ CETV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u
 CETV2,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001226/index.m3u8
 CETV4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
 中国天气,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
+
+
+
 
 
 
@@ -1057,7 +1063,7 @@ CGTN阿语,http://27.210.199.239:8888/udp/239.253.254.184:8000
 CGTN俄语,http://27.210.199.239:8888/udp/239.253.254.185:8000
 CGTN记录,http://27.210.199.239:8888/udp/239.253.254.188:8000
 CGTN英语,http://27.210.199.239:8888/udp/239.253.254.189:8000
-爱上4K,http://27.210.199.239:8888/udp/239.253.254.102:8000
+爱上4K,http://appleliuxu.top:8888/udp/239.253.254.102:8000
 
 
 
@@ -3323,6 +3329,7 @@ Bestv赛事6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001154/in
 北京IPTV淘剧场,http://111.199.1.184:8686/udp/228.1.1.126:8001
 北京IPTV淘精彩,http://111.199.1.184:8686/udp/228.1.1.202:8002
 北京IPTV萌宠,http://111.199.1.184:8686/udp/228.1.1.135:8002
+北京IPTV高清电影,http://tro.so.coaens.com:4000/udp/239.3.1.249:8001
 
 
 重庆卫视,http://183.66.66.199:2345/udp/235.254.196.249:1268
