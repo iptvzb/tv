@@ -2894,7 +2894,7 @@ CCTV17 HD,http://tvh.990066.xyz:8880/stream/channelid/1639304119?profile=pass
 
 
 
-山东移动(内网),#genre#
+山东移动内网,#genre#
 
 山东卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226144/index.m3u8
 山东卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226495/index.m3u8
@@ -3108,7 +3108,7 @@ CETV 1,http://39.134.144.6:8089/PLTV/88888888/224/3221226252/index.m3u8
 
 
 
-山东电信(内网),#genre#
+山东电信内网,#genre#
 
 山东卫视,http://150.138.8.143/00/SNM/CHANNEL10000301/index.m3u8
 山东新闻,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
@@ -3122,6 +3122,8 @@ CETV 1,http://39.134.144.6:8089/PLTV/88888888/224/3221226252/index.m3u8
 山东少儿,http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
 山东教育,http://150.138.8.143/00/SNM/CHANNEL10000062/index.m3u8
 海洋频道,http://150.138.8.143/00/SNM/CHANNEL00000662/index.m3u8
+中国交通,http://150.138.8.143/00/SNM/CHANNEL00000073/index.m3u8
+
 青岛1,http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
 青岛2,http://150.138.8.143/00/SNM/CHANNEL00000501/index.m3u8
 青岛3,http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8
@@ -3142,6 +3144,12 @@ CETV 1,http://39.134.144.6:8089/PLTV/88888888/224/3221226252/index.m3u8
 烟台公共,http://150.138.8.143/00/SNM/CHANNEL00000281/index.m3u8
 烟台经济科技,http://150.138.8.143/00/SNM/CHANNEL00000282/index.m3u8
 烟台影视,http://150.138.8.143/00/SNM/CHANNEL00000283/index.m3u8
+日照新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
+日照科教,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
+日照莒县综合,http://150.138.8.143/00/SNM/CHANNEL00001014/index.m3u8
+日照岚山,http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
+日照五莲新闻,http://150.138.8.143/00/SNM/CHANNEL00001068/index.m3u8
+长清新闻,http://150.138.8.143/00/SNM/CHANNEL00001018/index.m3u8
 淄博新闻,http://150.138.8.143/00/SNM/CHANNEL00000292/index.m3u8
 淄博都市,http://150.138.8.143/00/SNM/CHANNEL00000293/index.m3u8
 淄博生活,http://150.138.8.143/00/SNM/CHANNEL00000294/index.m3u8
@@ -3179,12 +3187,6 @@ CETV 1,http://39.134.144.6:8089/PLTV/88888888/224/3221226252/index.m3u8
 诸城新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001004/index.m3u8
 商河综合,http://150.138.8.143/00/SNM/CHANNEL00001008/index.m3u8
 惠民综合频道,http://150.138.8.143/00/SNM/CHANNEL00001009/index.m3u8
-日照新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
-日照科教,http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
-日照莒县综合,http://150.138.8.143/00/SNM/CHANNEL00001014/index.m3u8
-日照岚山,http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
-日照五莲新闻,http://150.138.8.143/00/SNM/CHANNEL00001068/index.m3u8
-长清新闻,http://150.138.8.143/00/SNM/CHANNEL00001018/index.m3u8
 桓台综合,http://150.138.8.143/00/SNM/CHANNEL00001020/index.m3u8
 无棣综合,http://150.138.8.143/00/SNM/CHANNEL00001024/index.m3u8
 新泰新闻综合,http://150.138.8.143/00/SNM/CHANNEL00001029/index.m3u8
@@ -3312,7 +3314,6 @@ CETV-4,http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
 上海魅力足球,http://150.138.8.143/00/SNM/CHANNEL00002021/index.m3u8
 上海法治天地,http://150.138.8.143/00/SNM/CHANNEL00002010/index.m3u8
 上海动漫秀场,http://150.138.8.143/00/SNM/CHANNEL00002000/index.m3u8
-精彩影视,http://150.138.8.143/00/SNM/CHANNEL00002012/index.m3u8
 上海东方财经,http://150.138.8.143/00/SNM/CHANNEL00002025/index.m3u8
 上海纪实人文,http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
 湖南快乐垂钓,http://150.138.8.143/00/SNM/CHANNEL00000648/index.m3u8
@@ -3324,7 +3325,7 @@ CETV-4,http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
 河南武术世界,http://150.138.8.143/00/SNM/CHANNEL00000657/index.m3u8
 北京卡酷少儿,http://150.138.8.143/00/SNM/CHANNEL00000661/index.m3u8
 重庆奇摩,http://150.138.8.143/00/SNM/CHANNEL00000711/index.m3u8
-中国交通,http://150.138.8.143/00/SNM/CHANNEL00000073/index.m3u8
+华数精彩影视,http://150.138.8.143/00/SNM/CHANNEL00002012/index.m3u8
 甄嬛传,http://150.138.8.143/00/SNM/CHANNEL00000364/index.m3u8
 
 
@@ -3448,6 +3449,7 @@ CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 卫视地方台,,#genre#
 
 上海新闻综合,http://117.68.4.113:8088/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+
 上海外语频道,http://117.68.4.113:8088/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/icshd8m/8000000/mnf.m3u8
 上海东方影视,http://117.68.4.113:8088/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/dfyshd8m/8000000/mnf.m3u8
 上海五星体育,http://117.68.4.113:8088/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/wxtyhd8m/8000000/mnf.m3u8
@@ -3484,7 +3486,6 @@ CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 
 
 
-
 江西都市,http://php.jdshipin.com:8880/iptv.php?id=jxds
 江西经济生活,http://php.jdshipin.com:8880/iptv.php?id=jxjjsh
 江西影视旅游,http://php.jdshipin.com:8880/iptv.php?id=jxysly
@@ -3517,8 +3518,8 @@ CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 甘肃都市,http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000324/index.m3u8?
 甘肃少儿,http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000327/index.m3u8?
 甘肃文化影视,http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000323/index.m3u8?
-兰州新闻综合,http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000328/index.m3u8?
-兰州文旅,http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000330/index.m3u8?
+甘肃兰州新闻综合,http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000328/index.m3u8?
+甘肃兰州文旅,http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000330/index.m3u8?
 
 
 
@@ -3657,6 +3658,7 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/
 
 
 
+
 百事通华语影院,http://117.68.4.113:8088/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/hyyy8m/8000000/mnf.m3u8
 百事通星光影院,http://117.68.4.113:8088/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/xgyy8m/8000000/mnf.m3u8
 百事通谍战剧场,http://117.68.4.113:8088/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/dzjc8m/8000000/mnf.m3u8
@@ -3668,6 +3670,7 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/
 百事通电竞天堂,http://117.68.4.113:8088/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/djtt8m/8000000/mnf.m3u8
 百事通戏曲精选,http://117.68.4.113:8088/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/xqjx8m/8000000/mnf.m3u8
 百事通看天下精选,http://117.68.4.113:8088/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/ktxjx8m/8000000/mnf.m3u8
+
 百事通体育1,http://117.68.4.113:8088/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/hdnba1/4000000/mnf.m3u8
 百事通体育2,http://117.68.4.113:8088/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/hdnba2/4000000/mnf.m3u8
 百事通体育3,http://117.68.4.113:8088/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/hdnba3/4000000/mnf.m3u8
